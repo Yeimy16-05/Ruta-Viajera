@@ -1,0 +1,1711 @@
+.descripci-n-destino,
+.descripci-n-destino * {
+  box-sizing: border-box;
+}
+.descripci-n-destino {
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  height: 1862px;
+  position: relative;
+}
+.body {
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1240px;
+  height: 640px;
+  position: relative;
+}
+.layout {
+  background: linear-gradient(
+    135deg,
+    rgba(223, 242, 254, 1) 0%,
+    rgba(236, 253, 245, 1) 100%
+  );
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 1862px;
+  position: relative;
+}
+.navigation {
+  background: rgba(255, 255, 255, 0.8);
+  border-style: solid;
+  border-color: rgba(184, 230, 254, 0.5);
+  border-width: 0px 0px 0.83px 0px;
+  padding: 0px 0px 0.83px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 72.8px;
+  position: relative;
+}
+.container {
+  padding: 15.99px 24px 0px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 71.97px;
+  position: relative;
+}
+.container2 {
+  padding: 0px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 39.99px;
+  position: relative;
+}
+.link {
+  display: flex;
+  flex-direction: row;
+  gap: 7.99px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 160px;
+  height: 32px;
+  position: relative;
+}
+.fluent-beach-28-regular {
+  flex-shrink: 0;
+  width: 50px;
+  height: 50px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.layout2 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 94.74px;
+  height: 31.99px;
+  position: relative;
+}
+.ruta-viajera {
+  background: linear-gradient(to left, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),
+    linear-gradient(90deg, rgba(0, 132, 209, 1) 0%, rgba(0, 153, 102, 1) 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 700;
+  position: relative;
+}
+.container3 {
+  display: flex;
+  flex-direction: row;
+  gap: 31.99px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 702.11px;
+  height: 39.99px;
+  position: relative;
+}
+.link2 {
+  border-radius: 10px;
+  padding: 8px 16px 8px 15.99px;
+  display: flex;
+  flex-direction: row;
+  gap: 7.99px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 97.81px;
+  height: 39.99px;
+  position: relative;
+}
+.icon {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.layout3 {
+  flex-shrink: 0;
+  width: 37.84px;
+  height: 24px;
+  position: relative;
+}
+.inicio {
+  color: #364153;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.17px;
+}
+.link3 {
+  background: rgba(118, 191, 255, 0.62);
+  border-radius: 10px;
+  padding: 8px 16px 8px 15.99px;
+  display: flex;
+  flex-direction: row;
+  gap: 7.99px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 117.34px;
+  height: 39.99px;
+  position: relative;
+}
+.icon2 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.layout4 {
+  flex-shrink: 0;
+  width: 57.37px;
+  height: 24px;
+  position: relative;
+}
+.explorar {
+  color: #364153;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.17px;
+}
+.link4 {
+  border-radius: 10px;
+  padding: 8px 16px 8px 15.99px;
+  display: flex;
+  flex-direction: row;
+  gap: 7.99px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 123.45px;
+  height: 39.99px;
+  position: relative;
+}
+.icon3 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.layout5 {
+  flex-shrink: 0;
+  width: 63.48px;
+  height: 24px;
+  position: relative;
+}
+.favoritos {
+  color: #364153;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.17px;
+}
+.link5 {
+  border-radius: 10px;
+  padding: 8px 16px 8px 15.99px;
+  display: flex;
+  flex-direction: row;
+  gap: 7.99px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 95.04px;
+  height: 39.99px;
+  position: relative;
+}
+.icon4 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.layout6 {
+  flex-shrink: 0;
+  width: 35.07px;
+  height: 24px;
+  position: relative;
+}
+.perfil {
+  color: #364153;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.17px;
+}
+.link6 {
+  background: linear-gradient(
+    90deg,
+    rgba(0, 132, 209, 1) 0%,
+    rgba(0, 153, 102, 1) 100%
+  );
+  border-radius: 10px;
+  flex-shrink: 0;
+  width: 140.49px;
+  height: 39.99px;
+  position: relative;
+  box-shadow: 0px 2px 4px -2px rgba(0, 0, 0, 0.1),
+    0px 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+.iniciar-sesi-n {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 24px;
+  top: 5.83px;
+}
+.destination-detail {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1240px;
+  height: 1686px;
+  position: relative;
+}
+.container4 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 384px;
+  position: relative;
+}
+.container5 {
+  background: linear-gradient(
+    0deg,
+    rgba(0, 0, 0, 0.5) 0%,
+    rgba(0, 0, 0, 0) 100%
+  );
+  border-radius: 14px;
+  width: 916px;
+  height: 336.02px;
+  position: absolute;
+  left: 7.99px;
+  top: 7.99px;
+  overflow: hidden;
+}
+.container6 {
+  display: flex;
+  flex-direction: column;
+  gap: 7.99px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 201px;
+  height: 83.97px;
+  position: absolute;
+  left: 24px;
+  top: 228.05px;
+}
+.heading-1 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 47.99px;
+  position: relative;
+}
+.maldivas {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 48px;
+  line-height: 48px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: -3.33px;
+}
+.container7 {
+  display: flex;
+  flex-direction: row;
+  gap: 7.99px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 27.98px;
+  position: relative;
+}
+.icon5 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.text {
+  flex-shrink: 0;
+  width: 114.92px;
+  height: 27.98px;
+  position: relative;
+}
+.oc-ano-ndico {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -1.33px;
+}
+.container8 {
+  border-radius: 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 300.01px;
+  height: 164.01px;
+  position: absolute;
+  left: 931.99px;
+  top: 7.99px;
+  overflow: hidden;
+}
+.image-with-fallback {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 164.01px;
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.container9 {
+  border-radius: 14px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 300.01px;
+  height: 164.01px;
+  position: absolute;
+  left: 931.99px;
+  top: 180px;
+  overflow: hidden;
+}
+.button {
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 14px;
+  width: 300.01px;
+  height: 24px;
+  position: absolute;
+  left: 931.99px;
+  top: 352.01px;
+}
+.icon6 {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 97.41px;
+  top: 1.99px;
+  overflow: visible;
+}
+.ver-galer-a {
+  color: #364153;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 123.4px;
+  top: -2.17px;
+}
+.container10 {
+  padding: 31.99px 24px 0px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 1182.37px;
+  position: relative;
+}
+.container11 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 1118.39px;
+  position: relative;
+}
+.container12 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 784px;
+  height: 1118.39px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.container13 {
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 14px;
+  border-style: solid;
+  border-color: #f3f4f6;
+  border-width: 0.83px;
+  padding: 0.83px;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 784.79px;
+  position: relative;
+  box-shadow: 0px 2px 4px -2px rgba(0, 0, 0, 0.1),
+    0px 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+.container14 {
+  padding: 0px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 718.35px;
+  height: 39.99px;
+  position: absolute;
+  left: 32.83px;
+  top: 32.83px;
+}
+.container15 {
+  display: flex;
+  flex-direction: row;
+  gap: 15.99px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 229.35px;
+  height: 27.99px;
+  position: relative;
+}
+.container16 {
+  display: flex;
+  flex-direction: row;
+  gap: 7.99px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 166.05px;
+  height: 27.99px;
+  position: relative;
+}
+.icon7 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.text2 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 28.44px;
+  height: 27.99px;
+  position: relative;
+}
+._4-9 {
+  color: #1e2939;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 700;
+  position: relative;
+}
+.text3 {
+  flex: 1;
+  height: 24px;
+  position: relative;
+}
+._1234-rese-as {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.17px;
+}
+.text4 {
+  background: #d0fae5;
+  border-radius: 27962000px;
+  flex-shrink: 0;
+  width: 47.3px;
+  height: 27.98px;
+  position: relative;
+}
+.div {
+  color: #007a55;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 600;
+  position: absolute;
+  left: 11.99px;
+  top: 3px;
+}
+.container17 {
+  display: flex;
+  flex-direction: row;
+  gap: 11.99px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 184.18px;
+  height: 39.99px;
+  position: relative;
+}
+.button2 {
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #d1d5dc;
+  border-width: 0.83px;
+  padding: 8.83px 8.83px 0.83px 8.83px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 37.66px;
+  height: 37.66px;
+  position: relative;
+}
+.icon8 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.button3 {
+  background: linear-gradient(
+    90deg,
+    rgba(0, 132, 209, 1) 0%,
+    rgba(0, 153, 102, 1) 100%
+  );
+  border-radius: 10px;
+  flex: 1;
+  height: 39.99px;
+  position: relative;
+  box-shadow: 0px 2px 4px -2px rgba(0, 0, 0, 0.1),
+    0px 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+.icon9 {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 24px;
+  top: 9.99px;
+  overflow: visible;
+}
+.guardar {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 49.99px;
+  top: 5.83px;
+}
+.heading-2 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 718.35px;
+  height: 31.99px;
+  position: absolute;
+  left: 32.83px;
+  top: 96.81px;
+}
+.descripci-n {
+  color: #1e2939;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 700;
+  position: relative;
+  flex: 1;
+}
+.paragraph {
+  width: 718.35px;
+  height: 104.01px;
+  position: absolute;
+  left: 32.83px;
+  top: 144.79px;
+}
+.las-maldivas-son-un-archipi-lago-de-1-192-islas-de {
+  color: #364153;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 26px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.33px;
+  width: 719px;
+}
+.heading-3 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 718.35px;
+  height: 27.99px;
+  position: absolute;
+  left: 32.83px;
+  top: 272.8px;
+}
+.lo-m-s-destacado {
+  color: #1e2939;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 700;
+  position: relative;
+  flex: 1;
+}
+.container18 {
+  background: #dff2fe;
+  border-radius: 27962000px;
+  padding: 0px 6px 0px 6px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 32.83px;
+  top: 318.78px;
+}
+.container19 {
+  background: #0084d1;
+  border-radius: 27962000px;
+  flex-shrink: 0;
+  width: 7.99px;
+  height: 7.99px;
+  position: relative;
+}
+.text5 {
+  width: 216.37px;
+  height: 24px;
+  position: absolute;
+  left: 60.82px;
+  top: 316.78px;
+}
+.playas-de-arena-blanca-pr-stina {
+  color: #364153;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.17px;
+}
+.container20 {
+  background: #dff2fe;
+  border-radius: 27962000px;
+  padding: 0px 6px 0px 6px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 397.99px;
+  top: 318.78px;
+}
+.text6 {
+  width: 269.48px;
+  height: 24px;
+  position: absolute;
+  left: 425.99px;
+  top: 316.78px;
+}
+.aguas-cristalinas-perfectas-para-buceo {
+  color: #364153;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.17px;
+}
+.container21 {
+  background: #dff2fe;
+  border-radius: 27962000px;
+  padding: 0px 6px 0px 6px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 32.83px;
+  top: 354.77px;
+}
+.text7 {
+  width: 203.79px;
+  height: 24px;
+  position: absolute;
+  left: 60.82px;
+  top: 352.77px;
+}
+.resorts-de-lujo-sobre-el-agua {
+  color: #364153;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.17px;
+}
+.container22 {
+  background: #dff2fe;
+  border-radius: 27962000px;
+  padding: 0px 6px 0px 6px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 397.99px;
+  top: 354.77px;
+}
+.text8 {
+  width: 212.68px;
+  height: 24px;
+  position: absolute;
+  left: 425.99px;
+  top: 352.77px;
+}
+.incre-ble-biodiversidad-marina {
+  color: #364153;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.17px;
+}
+.heading-32 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 718.35px;
+  height: 27.99px;
+  position: absolute;
+  left: 32.83px;
+  top: 408.76px;
+}
+.actividades-recomendadas {
+  color: #1e2939;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 700;
+  position: relative;
+  flex: 1;
+}
+.container23 {
+  width: 718.35px;
+  height: 299.22px;
+  position: absolute;
+  left: 32.83px;
+  top: 452.75px;
+}
+.container24 {
+  background: linear-gradient(
+    135deg,
+    rgba(240, 249, 255, 1) 0%,
+    rgba(236, 253, 245, 1) 100%
+  );
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #dff2fe;
+  border-width: 0.83px;
+  padding: 0.83px;
+  width: 351.17px;
+  height: 141.61px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.container25 {
+  background: #ffffff;
+  border-radius: 27962000px;
+  padding: 0px 12.01px 0px 11.99px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 47.99px;
+  height: 47.99px;
+  position: absolute;
+  left: 16.82px;
+  top: 16.82px;
+}
+.icon10 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.heading-4 {
+  width: 317.53px;
+  height: 24px;
+  position: absolute;
+  left: 16.82px;
+  top: 76.81px;
+}
+.buceo-y-snorkel {
+  color: #1e2939;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 0px;
+  top: -2.17px;
+}
+.paragraph2 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 317.53px;
+  height: 19.99px;
+  position: absolute;
+  left: 16.82px;
+  top: 104.8px;
+}
+.explora-arrecifes-de-coral-llenos-de-vida-marina {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: relative;
+}
+.container26 {
+  background: linear-gradient(
+    135deg,
+    rgba(240, 249, 255, 1) 0%,
+    rgba(236, 253, 245, 1) 100%
+  );
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #dff2fe;
+  border-width: 0.83px;
+  padding: 0.83px;
+  width: 351.18px;
+  height: 141.61px;
+  position: absolute;
+  left: 367.16px;
+  top: 0px;
+}
+.icon11 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.heading-42 {
+  width: 317.54px;
+  height: 24px;
+  position: absolute;
+  left: 16.82px;
+  top: 76.81px;
+}
+.fotograf-a-submarina {
+  color: #1e2939;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 0px;
+  top: -2.17px;
+}
+.paragraph3 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 317.54px;
+  height: 19.99px;
+  position: absolute;
+  left: 16.82px;
+  top: 104.8px;
+}
+.captura-la-belleza-del-mundo-marino {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+}
+.container27 {
+  background: linear-gradient(
+    135deg,
+    rgba(240, 249, 255, 1) 0%,
+    rgba(236, 253, 245, 1) 100%
+  );
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #dff2fe;
+  border-width: 0.83px;
+  padding: 0.83px;
+  width: 351.17px;
+  height: 141.61px;
+  position: absolute;
+  left: 0px;
+  top: 157.6px;
+}
+.icon12 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.gastronom-a-local {
+  color: #1e2939;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 0px;
+  top: -2.17px;
+}
+.disfruta-de-mariscos-frescos-y-cocina-maldiva {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: relative;
+}
+.container28 {
+  background: linear-gradient(
+    135deg,
+    rgba(240, 249, 255, 1) 0%,
+    rgba(236, 253, 245, 1) 100%
+  );
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #dff2fe;
+  border-width: 0.83px;
+  padding: 0.83px;
+  width: 351.18px;
+  height: 141.61px;
+  position: absolute;
+  left: 367.16px;
+  top: 157.6px;
+}
+.icon13 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.tours-en-bote {
+  color: #1e2939;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 0px;
+  top: -2.17px;
+}
+.visita-m-ltiples-islas-y-atolones {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+}
+.container29 {
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 14px;
+  border-style: solid;
+  border-color: #f3f4f6;
+  border-width: 0.83px;
+  padding: 32.83px 32.83px 0.83px 32.83px;
+  display: flex;
+  flex-direction: column;
+  gap: 15.99px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 309.6px;
+  position: relative;
+  box-shadow: 0px 2px 4px -2px rgba(0, 0, 0, 0.1),
+    0px 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+.heading-33 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 27.99px;
+  position: relative;
+}
+.destinos-similares {
+  color: #1e2939;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 700;
+  position: relative;
+  flex: 1;
+}
+.container30 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 199.96px;
+  position: relative;
+}
+.link7 {
+  background: #ffffff;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 228.79px;
+  height: 199.96px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 1px 2px -1px rgba(0, 0, 0, 0.1),
+    0px 1px 3px 0px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+.destination-detail2 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 127.99px;
+  position: relative;
+  overflow: hidden;
+}
+.image-with-fallback2 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 127.99px;
+  position: relative;
+  overflow: hidden;
+  object-fit: cover;
+}
+.destination-detail3 {
+  padding: 11.99px 11.99px 0px 11.99px;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 71.97px;
+  position: relative;
+}
+.heading-43 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 24px;
+  position: relative;
+}
+.bora-bora {
+  color: #1e2939;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 0px;
+  top: -2.17px;
+}
+.container31 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 19.99px;
+  position: relative;
+}
+.icon14 {
+  width: 11.99px;
+  height: 11.99px;
+  position: absolute;
+  left: 0px;
+  top: 4px;
+  overflow: visible;
+}
+._4-8 {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 15.99px;
+  top: -1px;
+}
+.link8 {
+  background: #ffffff;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 228.79px;
+  height: 199.96px;
+  position: absolute;
+  left: 244.78px;
+  top: 0px;
+  box-shadow: 0px 1px 2px -1px rgba(0, 0, 0, 0.1),
+    0px 1px 3px 0px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+.seychelles {
+  color: #1e2939;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 0px;
+  top: -2.17px;
+}
+.icon15 {
+  width: 11.99px;
+  height: 11.99px;
+  position: absolute;
+  left: 0px;
+  top: 4px;
+  overflow: visible;
+}
+._4-7 {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 15.99px;
+  top: -1px;
+}
+.link9 {
+  background: #ffffff;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 228.79px;
+  height: 199.96px;
+  position: absolute;
+  left: 489.56px;
+  top: 0px;
+  box-shadow: 0px 1px 2px -1px rgba(0, 0, 0, 0.1),
+    0px 1px 3px 0px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+.mauricio {
+  color: #1e2939;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 0px;
+  top: -2.17px;
+}
+.icon16 {
+  width: 11.99px;
+  height: 11.99px;
+  position: absolute;
+  left: 0px;
+  top: 4px;
+  overflow: visible;
+}
+._4-6 {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 15.99px;
+  top: -1px;
+}
+.container32 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 376.02px;
+  height: 1118.39px;
+  position: absolute;
+  left: 815.99px;
+  top: 0px;
+}
+.container33 {
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 14px;
+  border-style: solid;
+  border-color: #f3f4f6;
+  border-width: 0.83px;
+  padding: 0.83px;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 451.17px;
+  position: relative;
+  box-shadow: 0px 2px 4px -2px rgba(0, 0, 0, 0.1),
+    0px 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+.heading-34 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 326.35px;
+  height: 27.99px;
+  position: absolute;
+  left: 24.83px;
+  top: 24.83px;
+}
+.informaci-n-del-viaje {
+  color: #1e2939;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 700;
+  position: relative;
+  flex: 1;
+}
+.container34 {
+  display: flex;
+  flex-direction: column;
+  gap: 15.99px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 326.35px;
+  height: 223.91px;
+  position: absolute;
+  left: 24.83px;
+  top: 68.82px;
+}
+.container35 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 43.98px;
+  position: relative;
+}
+.icon17 {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 0px;
+  top: 1.99px;
+  overflow: visible;
+}
+.container36 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 132.54px;
+  height: 43.98px;
+  position: absolute;
+  left: 31.99px;
+  top: 0px;
+}
+.paragraph4 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 19.99px;
+  position: relative;
+}
+.mejor-poca {
+  color: #6a7282;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+}
+.paragraph5 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 24px;
+  position: relative;
+}
+.noviembre-a-abril {
+  color: #1e2939;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 0px;
+  top: -2.17px;
+}
+.icon18 {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 0px;
+  top: 1.99px;
+  overflow: visible;
+}
+.container37 {
+  width: 152.64px;
+  height: 43.98px;
+  position: absolute;
+  left: 31.99px;
+  top: 0px;
+}
+.ideal-para {
+  color: #6a7282;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 152.64px;
+}
+.paragraph6 {
+  width: 152.64px;
+  height: 24px;
+  position: absolute;
+  left: 0px;
+  top: 19.99px;
+}
+.parejas-luna-de-miel {
+  color: #1e2939;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 0px;
+  top: -2.17px;
+}
+.icon19 {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 0px;
+  top: 1.99px;
+  overflow: visible;
+}
+.container38 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 144.45px;
+  height: 43.98px;
+  position: absolute;
+  left: 31.99px;
+  top: 0px;
+}
+.duraci-n-recomendada {
+  color: #6a7282;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: relative;
+}
+._5-7-d-as {
+  color: #1e2939;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 0px;
+  top: -2.17px;
+}
+.icon20 {
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 0px;
+  top: 1.99px;
+  overflow: visible;
+}
+.container39 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 76.26px;
+  height: 43.98px;
+  position: absolute;
+  left: 31.99px;
+  top: 0px;
+}
+.presupuesto {
+  color: #6a7282;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: relative;
+}
+.alto {
+  color: #1e2939;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 0px;
+  top: -2.17px;
+}
+.button4 {
+  background: linear-gradient(
+    90deg,
+    rgba(0, 132, 209, 1) 0%,
+    rgba(0, 153, 102, 1) 100%
+  );
+  border-radius: 10px;
+  width: 326.35px;
+  height: 47.98px;
+  position: absolute;
+  left: 24.83px;
+  top: 316.72px;
+  box-shadow: 0px 2px 4px -2px rgba(0, 0, 0, 0.1),
+    0px 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+.planificar-viaje {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 104.79px;
+  top: 9.83px;
+}
+.button5 {
+  background: #ffffff;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #d1d5dc;
+  border-width: 0.83px;
+  padding: 0.83px;
+  width: 326.35px;
+  height: 49.65px;
+  position: absolute;
+  left: 24.83px;
+  top: 376.69px;
+}
+.contactar-agencia {
+  color: #364153;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 600;
+  position: absolute;
+  left: 91.56px;
+  top: 10.66px;
+}
+.footer {
+  background: #101828;
+  padding: 32px 0px 32px 0px;
+  flex-shrink: 0;
+  width: 1240px;
+  height: 88px;
+  position: absolute;
+  left: 0px;
+  top: 1774px;
+}
+.container40 {
+  padding: 0px 24px 0px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1240px;
+  position: absolute;
+  left: 0px;
+  top: 32px;
+}
+._2026-travelyn-todos-los-derechos-reservados {
+  color: #99a1af;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 408.22px;
+  top: -2.17px;
+}
+._2026-ruta-viajera-todos-los-derechos-reservados {
+  color: #99a1af;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 397.22px;
+  top: -2.17px;
+}

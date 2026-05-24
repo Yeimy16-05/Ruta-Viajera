@@ -1,0 +1,1782 @@
+.explorar,
+.explorar * {
+  box-sizing: border-box;
+}
+.explorar {
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  height: 1862px;
+  position: relative;
+}
+.body {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1240px;
+  height: 1862px;
+  position: relative;
+}
+.layout {
+  background: linear-gradient(
+    135deg,
+    rgba(223, 242, 254, 1) 0%,
+    rgba(236, 253, 245, 1) 100%
+  );
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 1862px;
+  position: relative;
+}
+.navigation {
+  background: rgba(255, 255, 255, 0.8);
+  border-style: solid;
+  border-color: rgba(184, 230, 254, 0.5);
+  border-width: 0px 0px 0.83px 0px;
+  padding: 0px 0px 0.83px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 72.8px;
+  position: relative;
+}
+.container {
+  padding: 15.99px 24px 0px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 71.97px;
+  position: relative;
+}
+.container2 {
+  padding: 0px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 39.99px;
+  position: relative;
+}
+.link {
+  display: flex;
+  flex-direction: row;
+  gap: 7.99px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 160px;
+  height: 32px;
+  position: relative;
+}
+.fluent-beach-28-regular {
+  flex-shrink: 0;
+  width: 50px;
+  height: 50px;
+  position: relative;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.layout2 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 94.74px;
+  height: 31.99px;
+  position: relative;
+}
+.ruta-viajera {
+  background: linear-gradient(to left, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),
+    linear-gradient(90deg, rgba(0, 132, 209, 1) 0%, rgba(0, 153, 102, 1) 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 32px;
+  font-weight: 700;
+  position: relative;
+}
+.container3 {
+  display: flex;
+  flex-direction: row;
+  gap: 31.99px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 702.11px;
+  height: 39.99px;
+  position: relative;
+}
+.link2 {
+  border-radius: 10px;
+  padding: 8px 16px 8px 15.99px;
+  display: flex;
+  flex-direction: row;
+  gap: 7.99px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 97.81px;
+  height: 39.99px;
+  position: relative;
+}
+.icon {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.layout3 {
+  flex-shrink: 0;
+  width: 37.84px;
+  height: 24px;
+  position: relative;
+}
+.inicio {
+  color: #364153;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.17px;
+}
+.link3 {
+  background: rgba(118, 191, 255, 0.62);
+  border-radius: 10px;
+  padding: 8px 16px 8px 15.99px;
+  display: flex;
+  flex-direction: row;
+  gap: 7.99px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 117.34px;
+  height: 39.99px;
+  position: relative;
+}
+.icon2 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+  left: 9.3px;
+  top: 10.01px;
+  overflow: visible;
+  mix-blend-mode: plus-darker;
+}
+.layout4 {
+  flex-shrink: 0;
+  width: 67px;
+  height: 24px;
+  position: absolute;
+  left: 37.3px;
+  top: 8.01px;
+}
+.explorar2 {
+  color: #364153;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 800;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.link4 {
+  border-radius: 10px;
+  padding: 8px 16px 8px 15.99px;
+  display: flex;
+  flex-direction: row;
+  gap: 7.99px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 123.45px;
+  height: 39.99px;
+  position: relative;
+}
+.icon3 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.layout5 {
+  flex-shrink: 0;
+  width: 63.48px;
+  height: 24px;
+  position: relative;
+}
+.favoritos {
+  color: #364153;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.17px;
+}
+.link5 {
+  border-radius: 10px;
+  padding: 8px 16px 8px 15.99px;
+  display: flex;
+  flex-direction: row;
+  gap: 7.99px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 95.04px;
+  height: 39.99px;
+  position: relative;
+}
+.icon4 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.layout6 {
+  flex-shrink: 0;
+  width: 35.07px;
+  height: 24px;
+  position: relative;
+}
+.perfil {
+  color: #364153;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.17px;
+}
+.link6 {
+  background: linear-gradient(
+    90deg,
+    rgba(0, 132, 209, 1) 0%,
+    rgba(0, 153, 102, 1) 100%
+  );
+  border-radius: 10px;
+  flex-shrink: 0;
+  width: 140.49px;
+  height: 39.99px;
+  position: relative;
+  box-shadow: 0px 2px 4px -2px rgba(0, 0, 0, 0.1),
+    0px 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+.iniciar-sesi-n {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 24px;
+  top: 5.83px;
+}
+.explore {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1240px;
+  height: 1341.65px;
+  position: relative;
+}
+.container4 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 255.99px;
+  position: relative;
+}
+.container5 {
+  background: linear-gradient(
+    90deg,
+    rgba(2, 74, 112, 0.8) 0%,
+    rgba(0, 79, 59, 0.7) 100%
+  );
+  width: 1240px;
+  height: 255.99px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.container6 {
+  padding: 0px 24px 0px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 15.99px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 630.17px;
+  height: 91.98px;
+  position: absolute;
+  left: 304.92px;
+  top: 82.01px;
+}
+.heading-1 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 47.99px;
+  position: relative;
+}
+.explorar-destinos {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 48px;
+  line-height: 48px;
+  font-weight: 700;
+  position: absolute;
+  left: 82.89px;
+  top: -3.33px;
+}
+.paragraph {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 27.99px;
+  position: relative;
+}
+.encuentra-tu-pr-ximo-destino-entre-cientos-de-opci {
+  color: rgba(255, 255, 255, 0.9);
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 400;
+  position: relative;
+}
+.container7 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 1085.66px;
+  position: relative;
+}
+.container8 {
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 14px;
+  border-style: solid;
+  border-color: #e5e7eb;
+  border-width: 0.83px;
+  padding: 24.83px 24.83px 0.83px 24.83px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1192.01px;
+  height: 188.93px;
+  position: absolute;
+  left: 24px;
+  top: 31.99px;
+  box-shadow: 0px 2px 4px -2px rgba(0, 0, 0, 0.1),
+    0px 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+.container9 {
+  display: flex;
+  flex-direction: row;
+  gap: 15.99px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 49.65px;
+  position: relative;
+}
+.container10 {
+  background: #f9fafb;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #e5e7eb;
+  border-width: 0.83px;
+  padding: 12px 15.99px 12px 15.99px;
+  display: flex;
+  flex-direction: row;
+  gap: 11.99px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 1004.28px;
+  height: 49.65px;
+  position: relative;
+}
+.icon5 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.text-input {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 938.65px;
+  height: 24px;
+  position: relative;
+  overflow: hidden;
+}
+.buscar-destinos-pa-ses-ciudades {
+  color: #99a1af;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+}
+.button {
+  background: #ffffff;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #d1d5dc;
+  border-width: 0.83px;
+  padding: 12px 24px 12px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 7.99px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 122.07px;
+  height: 49.65px;
+  position: relative;
+}
+.icon6 {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.text {
+  flex-shrink: 0;
+  width: 44.41px;
+  height: 24px;
+  position: relative;
+}
+.filtros {
+  color: #364153;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: -2px;
+  top: -2.17px;
+}
+.container11 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 65.63px;
+  position: relative;
+}
+.container12 {
+  display: flex;
+  flex-direction: column;
+  gap: 7.99px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 559.17px;
+  height: 65.63px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.label {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 19.99px;
+  position: relative;
+}
+.categor-a {
+  color: #364153;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 600;
+  position: relative;
+  flex: 1;
+}
+.container13 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 37.64px;
+  position: relative;
+}
+.button2 {
+  background: #ffffff;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #d1d5dc;
+  border-width: 0.83px;
+  padding: 0.83px;
+  width: 71.21px;
+  height: 37.64px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.todos {
+  color: #364153;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  position: absolute;
+  left: 14.82px;
+  top: 7.83px;
+}
+.button3 {
+  background: #ffffff;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #d1d5dc;
+  border-width: 0.83px;
+  padding: 0.83px;
+  width: 67.23px;
+  height: 37.64px;
+  position: absolute;
+  left: 79.21px;
+  top: 0px;
+}
+.playa {
+  color: #364153;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  position: absolute;
+  left: 15.82px;
+  top: 7.83px;
+}
+.button4 {
+  background: #ffffff;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #d1d5dc;
+  border-width: 0.83px;
+  padding: 0.83px;
+  width: 90.96px;
+  height: 37.64px;
+  position: absolute;
+  left: 154.43px;
+  top: 0px;
+}
+.monta-a {
+  color: #364153;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  position: absolute;
+  left: 16.82px;
+  top: 7.83px;
+}
+.button5 {
+  background: #ffffff;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #d1d5dc;
+  border-width: 0.83px;
+  padding: 0.83px;
+  width: 78.35px;
+  height: 37.64px;
+  position: absolute;
+  left: 253.39px;
+  top: 0px;
+}
+.ciudad {
+  color: #364153;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  position: absolute;
+  left: 14.82px;
+  top: 7.83px;
+}
+.button6 {
+  background: #ffffff;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #d1d5dc;
+  border-width: 0.83px;
+  padding: 0.83px;
+  width: 102.32px;
+  height: 37.64px;
+  position: absolute;
+  left: 339.73px;
+  top: 0px;
+}
+.naturaleza {
+  color: #364153;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  position: absolute;
+  left: 14.82px;
+  top: 7.83px;
+}
+.button7 {
+  background: #ffffff;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #d1d5dc;
+  border-width: 0.83px;
+  padding: 0.83px;
+  width: 91.07px;
+  height: 37.64px;
+  position: absolute;
+  left: 450.04px;
+  top: 0px;
+}
+.aventura {
+  color: #364153;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  position: absolute;
+  left: 15.82px;
+  top: 7.83px;
+}
+.container14 {
+  display: flex;
+  flex-direction: column;
+  gap: 7.99px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 559.18px;
+  height: 65.63px;
+  position: absolute;
+  left: 583.16px;
+  top: 0px;
+}
+.rango-de-precio {
+  color: #364153;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 600;
+  position: relative;
+  flex: 1;
+}
+.button8 {
+  background: #ffffff;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #d1d5dc;
+  border-width: 0.83px;
+  padding: 0.83px;
+  width: 41.42px;
+  height: 37.64px;
+  position: absolute;
+  left: 79.21px;
+  top: 0px;
+}
+.div {
+  color: #364153;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  position: absolute;
+  left: 15.82px;
+  top: 7.83px;
+}
+.button9 {
+  background: #ffffff;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #d1d5dc;
+  border-width: 0.83px;
+  padding: 0.83px;
+  width: 49.19px;
+  height: 37.64px;
+  position: absolute;
+  left: 128.62px;
+  top: 0px;
+}
+.button10 {
+  background: #ffffff;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #d1d5dc;
+  border-width: 0.83px;
+  padding: 0.83px;
+  width: 56.97px;
+  height: 37.64px;
+  position: absolute;
+  left: 185.81px;
+  top: 0px;
+}
+.div2 {
+  color: #364153;
+  text-align: center;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 500;
+  position: absolute;
+  left: 14.82px;
+  top: 7.83px;
+}
+.container15 {
+  padding: 0px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 1192.01px;
+  height: 37.66px;
+  position: absolute;
+  left: 24px;
+  top: 252.92px;
+}
+.paragraph2 {
+  flex-shrink: 0;
+  width: 164.71px;
+  height: 24px;
+  position: relative;
+}
+._8-destinos-encontrados {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -2.17px;
+}
+._8-destinos-encontrados-span {
+  color: #1e2939;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-weight: 600;
+}
+._8-destinos-encontrados-span2 {
+  color: #4a5565;
+  font-family: "Inter-Regular", sans-serif;
+}
+.dropdown {
+  background: #ffffff;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #d1d5dc;
+  border-width: 0.83px;
+  padding: -581.71px 1216px 0.83px -1049.02px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 166.98px;
+  height: 37.66px;
+  position: relative;
+}
+.option {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 0px;
+  position: relative;
+}
+.container16 {
+  width: 1192.01px;
+  height: 739.1px;
+  position: absolute;
+  left: 24px;
+  top: 314.57px;
+}
+.link7 {
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 14px;
+  border-style: solid;
+  border-color: #f3f4f6;
+  border-width: 0.83px;
+  padding: 0.83px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 280px;
+  height: 357.55px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  box-shadow: 0px 2px 4px -2px rgba(0, 0, 0, 0.1),
+    0px 4px 6px -1px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+.explore2 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 191.99px;
+  position: relative;
+  overflow: hidden;
+}
+.container17 {
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 27962000px;
+  width: 52.76px;
+  height: 24px;
+  position: absolute;
+  left: 213.58px;
+  top: 11.99px;
+}
+.playa2 {
+  color: #0084d1;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 600;
+  position: absolute;
+  left: 11.99px;
+  top: 3.16px;
+}
+.container18 {
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  width: 48.49px;
+  height: 24px;
+  position: absolute;
+  left: 11.99px;
+  top: 11.99px;
+}
+.icon7 {
+  width: 11.99px;
+  height: 11.99px;
+  position: absolute;
+  left: 7.99px;
+  top: 6px;
+  overflow: visible;
+}
+._4-9 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 600;
+  position: absolute;
+  left: 23.98px;
+  top: 3.16px;
+}
+.explore3 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 163.89px;
+  position: relative;
+}
+.heading-3 {
+  width: 246.35px;
+  height: 27.98px;
+  position: absolute;
+  left: 15.99px;
+  top: 15.99px;
+}
+.maldivas {
+  color: #1e2939;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: -1.33px;
+}
+.container19 {
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 246.35px;
+  height: 19.99px;
+  position: absolute;
+  left: 15.99px;
+  top: 47.97px;
+}
+.icon8 {
+  flex-shrink: 0;
+  width: 15.99px;
+  height: 15.99px;
+  position: relative;
+  overflow: visible;
+}
+.text2 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 89.39px;
+  height: 19.99px;
+  position: relative;
+}
+.oc-ano-ndico {
+  color: #6a7282;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: relative;
+}
+.paragraph3 {
+  width: 246.35px;
+  height: 39.97px;
+  position: absolute;
+  left: 15.99px;
+  top: 75.95px;
+  overflow: hidden;
+}
+.para-so-tropical-con-aguas-cristalinas-y-playas-de {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -1px;
+  width: 247px;
+}
+.container20 {
+  padding: 0px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 246.35px;
+  height: 19.99px;
+  position: absolute;
+  left: 15.99px;
+  top: 127.92px;
+}
+.text3 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 23.32px;
+  height: 19.99px;
+  position: relative;
+}
+.div3 {
+  color: #009966;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 600;
+  position: relative;
+}
+.button11 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 66.24px;
+  height: 19.99px;
+  position: relative;
+}
+.ver-m-s {
+  color: #0084d1;
+  text-align: center;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 600;
+  position: relative;
+}
+.link8 {
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 14px;
+  border-style: solid;
+  border-color: #f3f4f6;
+  border-width: 0.83px;
+  padding: 0.83px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 280px;
+  height: 357.55px;
+  position: absolute;
+  left: 304px;
+  top: 0px;
+  box-shadow: 0px 2px 4px -2px rgba(0, 0, 0, 0.1),
+    0px 4px 6px -1px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+.container21 {
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  width: 48.45px;
+  height: 24px;
+  position: absolute;
+  left: 11.99px;
+  top: 11.99px;
+}
+.icon9 {
+  width: 11.99px;
+  height: 11.99px;
+  position: absolute;
+  left: 7.99px;
+  top: 6px;
+  overflow: visible;
+}
+._4-8 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 600;
+  position: absolute;
+  left: 23.98px;
+  top: 3.16px;
+}
+.bora-bora {
+  color: #1e2939;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: -1.33px;
+}
+.icon10 {
+  flex-shrink: 0;
+  width: 15.99px;
+  height: 15.99px;
+  position: relative;
+  overflow: visible;
+}
+.text4 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 111.45px;
+  height: 19.99px;
+  position: relative;
+}
+.polinesia-francesa {
+  color: #6a7282;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: relative;
+}
+.islas-paradis-acas-con-bungalows-sobre-el-agua {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -1px;
+  width: 247px;
+}
+.link9 {
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 14px;
+  border-style: solid;
+  border-color: #f3f4f6;
+  border-width: 0.83px;
+  padding: 0.83px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 280px;
+  height: 357.55px;
+  position: absolute;
+  left: 607.99px;
+  top: 0px;
+  box-shadow: 0px 2px 4px -2px rgba(0, 0, 0, 0.1),
+    0px 4px 6px -1px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+.container22 {
+  background: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  width: 48.23px;
+  height: 24px;
+  position: absolute;
+  left: 11.99px;
+  top: 11.99px;
+}
+.icon11 {
+  width: 11.99px;
+  height: 11.99px;
+  position: absolute;
+  left: 7.99px;
+  top: 6px;
+  overflow: visible;
+}
+._4-7 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 600;
+  position: absolute;
+  left: 23.98px;
+  top: 3.16px;
+}
+.explore4 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 143.91px;
+  position: relative;
+}
+.seychelles {
+  color: #1e2939;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: -1.33px;
+}
+.icon12 {
+  flex-shrink: 0;
+  width: 15.99px;
+  height: 15.99px;
+  position: relative;
+  overflow: visible;
+}
+.text5 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 88.41px;
+  height: 19.99px;
+  position: relative;
+}
+.frica-oriental {
+  color: #6a7282;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: relative;
+}
+.paragraph4 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 246.35px;
+  height: 19.99px;
+  position: absolute;
+  left: 15.99px;
+  top: 75.95px;
+  overflow: hidden;
+}
+.playas-ex-ticas-y-naturaleza-virgen {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+}
+.container23 {
+  padding: 0px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 246.35px;
+  height: 19.99px;
+  position: absolute;
+  left: 15.99px;
+  top: 107.93px;
+}
+.text6 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 15.55px;
+  height: 19.99px;
+  position: relative;
+}
+.link10 {
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 14px;
+  border-style: solid;
+  border-color: #f3f4f6;
+  border-width: 0.83px;
+  padding: 0.83px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 280.01px;
+  height: 357.55px;
+  position: absolute;
+  left: 911.99px;
+  top: 0px;
+  box-shadow: 0px 2px 4px -2px rgba(0, 0, 0, 0.1),
+    0px 4px 6px -1px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+.container24 {
+  background: rgba(255, 255, 255, 0.9);
+  border-radius: 27962000px;
+  width: 52.76px;
+  height: 24px;
+  position: absolute;
+  left: 213.59px;
+  top: 11.99px;
+}
+.icon13 {
+  width: 11.99px;
+  height: 11.99px;
+  position: absolute;
+  left: 7.99px;
+  top: 6px;
+  overflow: visible;
+}
+._4-6 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 600;
+  position: absolute;
+  left: 23.98px;
+  top: 3.16px;
+}
+.heading-32 {
+  width: 246.37px;
+  height: 27.98px;
+  position: absolute;
+  left: 15.99px;
+  top: 15.99px;
+}
+.mauricio {
+  color: #1e2939;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: -1.33px;
+}
+.container25 {
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 246.37px;
+  height: 19.99px;
+  position: absolute;
+  left: 15.99px;
+  top: 47.97px;
+}
+.icon14 {
+  flex-shrink: 0;
+  width: 15.99px;
+  height: 15.99px;
+  position: relative;
+  overflow: visible;
+}
+.paragraph5 {
+  width: 246.37px;
+  height: 39.97px;
+  position: absolute;
+  left: 15.99px;
+  top: 75.95px;
+  overflow: hidden;
+}
+.destino-de-ensue-o-con-playas-paradis-acas {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -1px;
+  width: 247px;
+}
+.container26 {
+  padding: 0px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 246.37px;
+  height: 19.99px;
+  position: absolute;
+  left: 15.99px;
+  top: 127.92px;
+}
+.link11 {
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 14px;
+  border-style: solid;
+  border-color: #f3f4f6;
+  border-width: 0.83px;
+  padding: 0.83px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 280px;
+  height: 357.55px;
+  position: absolute;
+  left: 0px;
+  top: 381.55px;
+  box-shadow: 0px 2px 4px -2px rgba(0, 0, 0, 0.1),
+    0px 4px 6px -1px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+.icon15 {
+  width: 11.99px;
+  height: 11.99px;
+  position: absolute;
+  left: 7.99px;
+  top: 6px;
+  overflow: visible;
+}
+.fiji {
+  color: #1e2939;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: -1.33px;
+}
+.icon16 {
+  flex-shrink: 0;
+  width: 15.99px;
+  height: 15.99px;
+  position: relative;
+  overflow: visible;
+}
+.text7 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 70.86px;
+  height: 19.99px;
+  position: relative;
+}
+.pac-fico-sur {
+  color: #6a7282;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: relative;
+}
+.islas-tropicales-con-cultura-vibrante {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: relative;
+}
+.link12 {
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 14px;
+  border-style: solid;
+  border-color: #f3f4f6;
+  border-width: 0.83px;
+  padding: 0.83px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 280px;
+  height: 357.55px;
+  position: absolute;
+  left: 304px;
+  top: 381.55px;
+  box-shadow: 0px 2px 4px -2px rgba(0, 0, 0, 0.1),
+    0px 4px 6px -1px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+.icon17 {
+  width: 11.99px;
+  height: 11.99px;
+  position: absolute;
+  left: 7.99px;
+  top: 6px;
+  overflow: visible;
+}
+.tahit {
+  color: #1e2939;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: -1.33px;
+}
+.icon18 {
+  flex-shrink: 0;
+  width: 15.99px;
+  height: 15.99px;
+  position: relative;
+  overflow: visible;
+}
+.belleza-natural-incomparable {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+}
+.link13 {
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 14px;
+  border-style: solid;
+  border-color: #f3f4f6;
+  border-width: 0.83px;
+  padding: 0.83px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 280px;
+  height: 357.55px;
+  position: absolute;
+  left: 607.99px;
+  top: 381.55px;
+  box-shadow: 0px 2px 4px -2px rgba(0, 0, 0, 0.1),
+    0px 4px 6px -1px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+.icon19 {
+  width: 11.99px;
+  height: 11.99px;
+  position: absolute;
+  left: 7.99px;
+  top: 6px;
+  overflow: visible;
+}
+._4-5 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 600;
+  position: absolute;
+  left: 23.98px;
+  top: 3.16px;
+}
+.zanz-bar {
+  color: #1e2939;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: -1.33px;
+}
+.icon20 {
+  flex-shrink: 0;
+  width: 15.99px;
+  height: 15.99px;
+  position: relative;
+  overflow: visible;
+}
+.text8 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 52.71px;
+  height: 19.99px;
+  position: relative;
+}
+.tanzania {
+  color: #6a7282;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: relative;
+}
+.playas-de-ensue-o-y-cultura-swahili {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: relative;
+  flex: 1;
+}
+.text9 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 7.77px;
+  height: 19.99px;
+  position: relative;
+}
+.link14 {
+  background: rgba(255, 255, 255, 0.8);
+  border-radius: 14px;
+  border-style: solid;
+  border-color: #f3f4f6;
+  border-width: 0.83px;
+  padding: 0.83px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 280.01px;
+  height: 357.55px;
+  position: absolute;
+  left: 911.99px;
+  top: 381.55px;
+  box-shadow: 0px 2px 4px -2px rgba(0, 0, 0, 0.1),
+    0px 4px 6px -1px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+.icon21 {
+  width: 11.99px;
+  height: 11.99px;
+  position: absolute;
+  left: 7.99px;
+  top: 6px;
+  overflow: visible;
+}
+.phuket {
+  color: #1e2939;
+  text-align: left;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 18px;
+  line-height: 28px;
+  font-weight: 700;
+  position: absolute;
+  left: 0px;
+  top: -1.33px;
+}
+.icon22 {
+  flex-shrink: 0;
+  width: 15.99px;
+  height: 15.99px;
+  position: relative;
+  overflow: visible;
+}
+.text10 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 53.48px;
+  height: 19.99px;
+  position: relative;
+}
+.tailandia {
+  color: #6a7282;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: relative;
+}
+.playas-tropicales-y-vida-nocturna-vibrante {
+  color: #4a5565;
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+  position: absolute;
+  left: 0px;
+  top: -1px;
+  width: 247px;
+}
+.footer {
+  background: #101828;
+  padding: 32px 0px 32px 0px;
+  flex-shrink: 0;
+  width: 1240px;
+  height: 88px;
+  position: absolute;
+  left: 0px;
+  top: 1774px;
+}
+.container27 {
+  padding: 0px 24px 0px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1240px;
+  height: 24px;
+  position: absolute;
+  left: 0px;
+  top: 32px;
+}
+.paragraph6 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 24px;
+  position: relative;
+}
+._2026-travelyn-todos-los-derechos-reservados {
+  color: #99a1af;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 408.22px;
+  top: -2.17px;
+}
+._2026-ruta-viajera-todos-los-derechos-reservados {
+  color: #99a1af;
+  text-align: center;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  position: absolute;
+  left: 397.22px;
+  top: -2.17px;
+}
