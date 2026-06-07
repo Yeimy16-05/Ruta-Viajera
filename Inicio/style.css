@@ -2,6 +2,7 @@
 .inicio * {
   box-sizing: border-box;
 }
+
 .inicio {
   background: #ffffff;
   display: flex;
@@ -11,6 +12,7 @@
   justify-content: flex-start;
   position: relative;
 }
+
 .body {
   display: flex;
   flex-direction: column;
@@ -21,12 +23,11 @@
   width: 1240px;
   position: relative;
 }
+
 .layout {
-  background: linear-gradient(
-    135deg,
-    rgba(223, 242, 254, 1) 0%,
-    rgba(236, 253, 245, 1) 100%
-  );
+  background: linear-gradient(135deg,
+      rgba(223, 242, 254, 1) 0%,
+      rgba(236, 253, 245, 1) 100%);
   display: flex;
   flex-direction: column;
   gap: 0px;
@@ -37,6 +38,7 @@
   height: 1862.34px;
   position: relative;
 }
+
 .navigation {
   background: rgba(255, 255, 255, 0.8);
   border-style: solid;
@@ -52,6 +54,7 @@
   flex-shrink: 0;
   position: relative;
 }
+
 .container {
   padding: 15.99px 24px 0px 24px;
   display: flex;
@@ -64,6 +67,7 @@
   height: 71.97px;
   position: relative;
 }
+
 .container2 {
   padding: 0px;
   display: flex;
@@ -76,6 +80,7 @@
   left: 16px;
   top: 18px;
 }
+
 .container3 {
   display: flex;
   flex-direction: row;
@@ -89,6 +94,7 @@
   right: -0.11px;
   top: 0.01px;
 }
+
 .link {
   background: rgba(118, 191, 255, 0.62);
   border-radius: 10px;
@@ -103,6 +109,7 @@
   height: 39.99px;
   position: relative;
 }
+
 .icon {
   flex-shrink: 0;
   width: 20px;
@@ -113,6 +120,7 @@
   overflow: visible;
   mix-blend-mode: plus-darker;
 }
+
 .layout2 {
   flex-shrink: 0;
   width: 44px;
@@ -121,6 +129,7 @@
   left: 40px;
   top: 9.99px;
 }
+
 .inicio2 {
   color: #364153;
   text-align: left;
@@ -132,6 +141,7 @@
   left: 0px;
   top: -2.17px;
 }
+
 .link2 {
   border-radius: 10px;
   padding: 8px 16px 8px 15.99px;
@@ -145,6 +155,7 @@
   height: 39.99px;
   position: relative;
 }
+
 .icon2 {
   flex-shrink: 0;
   width: 20px;
@@ -152,12 +163,14 @@
   position: relative;
   overflow: visible;
 }
+
 .layout3 {
   flex-shrink: 0;
   width: 57.37px;
   height: 24px;
   position: relative;
 }
+
 .explorar {
   color: #364153;
   text-align: left;
@@ -169,6 +182,7 @@
   left: 0px;
   top: -2.17px;
 }
+
 .link3 {
   border-radius: 10px;
   padding: 8px 16px 8px 15.99px;
@@ -182,6 +196,7 @@
   height: 39.99px;
   position: relative;
 }
+
 .icon3 {
   flex-shrink: 0;
   width: 20px;
@@ -189,12 +204,14 @@
   position: relative;
   overflow: visible;
 }
+
 .layout4 {
   flex-shrink: 0;
   width: 63.48px;
   height: 24px;
   position: relative;
 }
+
 .favoritos {
   color: #364153;
   text-align: left;
@@ -206,6 +223,7 @@
   left: 0px;
   top: -2.17px;
 }
+
 .link4 {
   border-radius: 10px;
   padding: 8px 16px 8px 15.99px;
@@ -219,6 +237,7 @@
   height: 39.99px;
   position: relative;
 }
+
 .icon4 {
   flex-shrink: 0;
   width: 20px;
@@ -226,12 +245,14 @@
   position: relative;
   overflow: visible;
 }
+
 .layout5 {
   flex-shrink: 0;
   width: 35.07px;
   height: 24px;
   position: relative;
 }
+
 .perfil {
   color: #364153;
   text-align: left;
@@ -243,12 +264,11 @@
   left: 0px;
   top: -2.17px;
 }
+
 .link5 {
-  background: linear-gradient(
-    90deg,
-    rgba(0, 132, 209, 1) 0%,
-    rgba(0, 153, 102, 1) 100%
-  );
+  background: linear-gradient(90deg,
+      rgba(0, 132, 209, 1) 0%,
+      rgba(0, 153, 102, 1) 100%);
   border-radius: 10px;
   flex-shrink: 0;
   width: 140.49px;
@@ -257,6 +277,7 @@
   box-shadow: 0px 2px 4px -2px rgba(0, 0, 0, 0.1),
     0px 4px 6px -1px rgba(0, 0, 0, 0.1);
 }
+
 .iniciar-sesi-n {
   color: #ffffff;
   text-align: left;
@@ -268,6 +289,7 @@
   left: 24px;
   top: 5.83px;
 }
+
 .link6 {
   display: flex;
   flex-direction: row;
@@ -279,6 +301,7 @@
   height: 32px;
   position: relative;
 }
+
 .fluent-beach-28-regular {
   flex-shrink: 0;
   width: 50px;
@@ -287,6 +310,7 @@
   overflow: visible;
   aspect-ratio: 1;
 }
+
 .layout6 {
   display: flex;
   flex-direction: row;
@@ -298,6 +322,7 @@
   height: 31.99px;
   position: relative;
 }
+
 .ruta-viajera {
   background: linear-gradient(to left, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),
     linear-gradient(90deg, rgba(0, 132, 209, 1) 0%, rgba(0, 153, 102, 1) 100%);
@@ -311,12 +336,14 @@
   font-weight: 700;
   position: relative;
 }
+
 .home {
   align-self: stretch;
   flex-shrink: 0;
   height: 1789.54px;
   position: relative;
 }
+
 .footer {
   background: #101828;
   padding: 31.99px 0px 0px 0px;
@@ -331,6 +358,7 @@
   left: 0px;
   top: 1701.56px;
 }
+
 .container4 {
   padding: 0px 24px 0px 24px;
   display: flex;
@@ -343,12 +371,14 @@
   height: 24px;
   position: relative;
 }
+
 .paragraph {
   align-self: stretch;
   flex-shrink: 0;
   height: 24px;
   position: relative;
 }
+
 ._2026-ruta-viajera-todos-los-derechos-reservados {
   color: #99a1af;
   text-align: center;
@@ -360,6 +390,7 @@
   left: 397.22px;
   top: -2.17px;
 }
+
 .container5 {
   width: 1240px;
   height: 500px;
@@ -367,18 +398,18 @@
   left: 0px;
   top: 0px;
 }
+
 .container6 {
-  background: linear-gradient(
-    90deg,
-    rgba(2, 74, 112, 0.7) 0%,
-    rgba(0, 79, 59, 0.6) 100%
-  );
+  background: linear-gradient(90deg,
+      rgba(2, 74, 112, 0.7) 0%,
+      rgba(0, 79, 59, 0.6) 100%);
   width: 1240px;
   height: 500px;
   position: absolute;
   left: 0px;
   top: 0.2px;
 }
+
 .container7 {
   width: 873.06px;
   height: 239.96px;
@@ -386,6 +417,7 @@
   left: 183.48px;
   top: 130.01px;
 }
+
 .heading-1 {
   width: 825.07px;
   height: 60px;
@@ -393,6 +425,7 @@
   left: 24px;
   top: 0px;
 }
+
 .descubre-tu-pr-ximo-destino {
   color: #ffffff;
   text-align: center;
@@ -404,6 +437,7 @@
   left: -13px;
   top: -4px;
 }
+
 .paragraph2 {
   display: flex;
   flex-direction: row;
@@ -416,6 +450,7 @@
   left: 24px;
   top: 84px;
 }
+
 .explora-los-lugares-m-s-incre-bles-del-mundo-y-cre {
   color: rgba(255, 255, 255, 0.9);
   text-align: center;
@@ -426,6 +461,7 @@
   position: relative;
   flex: 1;
 }
+
 .container8 {
   background: rgba(255, 255, 255, 0.95);
   border-radius: 16px;
@@ -442,6 +478,7 @@
   top: 143.98px;
   box-shadow: 0px 25px 50px -12px rgba(0, 0, 0, 0.25);
 }
+
 .container9 {
   display: flex;
   flex-direction: row;
@@ -453,6 +490,7 @@
   height: 47.98px;
   position: relative;
 }
+
 .container10 {
   background: #f9fafb;
   border-radius: 10px;
@@ -467,6 +505,7 @@
   height: 47.98px;
   position: relative;
 }
+
 .icon5 {
   flex-shrink: 0;
   width: 20px;
@@ -474,6 +513,7 @@
   position: relative;
   overflow: visible;
 }
+
 .text-input {
   display: flex;
   flex-direction: row;
@@ -486,6 +526,7 @@
   position: relative;
   overflow: hidden;
 }
+
 .a-d-nde-quieres-viajar {
   color: #99a1af;
   text-align: left;
@@ -494,12 +535,11 @@
   font-weight: 400;
   position: relative;
 }
+
 .button {
-  background: linear-gradient(
-    90deg,
-    rgba(0, 132, 209, 1) 0%,
-    rgba(0, 153, 102, 1) 100%
-  );
+  background: linear-gradient(90deg,
+      rgba(0, 132, 209, 1) 0%,
+      rgba(0, 153, 102, 1) 100%);
   border-radius: 10px;
   flex-shrink: 0;
   width: 111.68px;
@@ -508,6 +548,7 @@
   box-shadow: 0px 2px 4px -2px rgba(0, 0, 0, 0.1),
     0px 4px 6px -1px rgba(0, 0, 0, 0.1);
 }
+
 .buscar {
   color: #ffffff;
   text-align: center;
@@ -519,6 +560,7 @@
   left: 29.99px;
   top: 9.83px;
 }
+
 .container11 {
   width: 1240px;
   height: 1137.57px;
@@ -526,6 +568,7 @@
   left: 0px;
   top: 538.2px;
 }
+
 .container12 {
   display: flex;
   flex-direction: column;
@@ -538,12 +581,14 @@
   left: 24px;
   top: 64px;
 }
+
 .heading-2 {
   align-self: stretch;
   flex-shrink: 0;
   height: 35.99px;
   position: relative;
 }
+
 .categor-as-populares {
   color: #1e2939;
   text-align: left;
@@ -555,6 +600,7 @@
   left: 0px;
   top: -2.5px;
 }
+
 .encuentra-el-tipo-de-viaje-perfecto-para-ti {
   color: #4a5565;
   text-align: left;
@@ -566,6 +612,7 @@
   left: 0px;
   top: -2.17px;
 }
+
 .container13 {
   display: flex;
   flex-direction: column;
@@ -578,6 +625,7 @@
   left: 24px;
   top: 389.6px;
 }
+
 .container14 {
   padding: 0px;
   display: flex;
@@ -589,6 +637,7 @@
   height: 67.98px;
   position: relative;
 }
+
 .container15 {
   display: flex;
   flex-direction: column;
@@ -596,10 +645,11 @@
   align-items: flex-start;
   justify-content: flex-start;
   flex-shrink: 0;
-  width: 289.74px;
+  width: 400px;
   height: 67.98px;
   position: relative;
 }
+
 .destinos-destacados {
   color: #1e2939;
   text-align: left;
@@ -611,6 +661,7 @@
   left: 0px;
   top: -2.5px;
 }
+
 .los-lugares-m-s-populares-del-momento {
   color: #4a5565;
   text-align: left;
@@ -622,12 +673,14 @@
   left: 0px;
   top: -2.17px;
 }
+
 .link7 {
   flex-shrink: 0;
   width: 141.38px;
   height: 39.99px;
   position: relative;
 }
+
 .ver-todos {
   color: #0084d1;
   text-align: left;
@@ -639,6 +692,7 @@
   left: 24px;
   top: 5.83px;
 }
+
 .icon6 {
   width: 15.99px;
   height: 15.99px;
@@ -647,12 +701,14 @@
   top: 11.99px;
   overflow: visible;
 }
+
 .container16 {
   align-self: stretch;
   flex-shrink: 0;
   height: 224px;
   position: relative;
 }
+
 .link8 {
   background: rgba(255, 255, 255, 0.8);
   border-radius: 14px;
@@ -670,18 +726,18 @@
     0px 4px 6px -1px rgba(0, 0, 0, 0.1);
   overflow: hidden;
 }
+
 .home2 {
-  background: linear-gradient(
-    0deg,
-    rgba(0, 0, 0, 0.6) 0%,
-    rgba(0, 0, 0, 0) 100%
-  );
+  background: linear-gradient(0deg,
+      rgba(0, 0, 0, 0.6) 0%,
+      rgba(0, 0, 0, 0) 100%);
   align-self: stretch;
   flex-shrink: 0;
   height: 224px;
   position: relative;
   overflow: hidden;
 }
+
 .container17 {
   padding: 15.99px 15.99px 0px 15.99px;
   display: flex;
@@ -695,6 +751,7 @@
   left: 0px;
   top: 140.04px;
 }
+
 .heading-3 {
   display: flex;
   flex-direction: row;
@@ -706,6 +763,7 @@
   height: 27.99px;
   position: relative;
 }
+
 .maldivas {
   color: #ffffff;
   text-align: left;
@@ -716,6 +774,7 @@
   position: relative;
   flex: 1;
 }
+
 .paragraph3 {
   display: flex;
   flex-direction: row;
@@ -727,6 +786,7 @@
   height: 19.99px;
   position: relative;
 }
+
 .para-so-tropical-con-aguas-cristalinas {
   color: rgba(255, 255, 255, 0.9);
   text-align: left;
@@ -736,6 +796,7 @@
   font-weight: 400;
   position: relative;
 }
+
 .container18 {
   background: rgba(255, 255, 255, 0.9);
   border-radius: 27962000px;
@@ -745,6 +806,7 @@
   left: 215.25px;
   top: 11.99px;
 }
+
 .playa {
   color: #0084d1;
   text-align: left;
@@ -756,6 +818,7 @@
   left: 11.99px;
   top: 3.16px;
 }
+
 .link9 {
   background: rgba(255, 255, 255, 0.8);
   border-radius: 14px;
@@ -773,6 +836,7 @@
     0px 4px 6px -1px rgba(0, 0, 0, 0.1);
   overflow: hidden;
 }
+
 .container19 {
   padding: 15.99px 15.99px 0px 15.99px;
   display: flex;
@@ -786,6 +850,7 @@
   left: 0px;
   top: 120.05px;
 }
+
 .bora-bora {
   color: #ffffff;
   text-align: left;
@@ -796,12 +861,14 @@
   position: relative;
   flex: 1;
 }
+
 .paragraph4 {
   align-self: stretch;
   flex-shrink: 0;
   height: 39.97px;
   position: relative;
 }
+
 .islas-paradis-acas-en-la-polinesia-francesa {
   color: rgba(255, 255, 255, 0.9);
   text-align: left;
@@ -814,6 +881,7 @@
   top: -1px;
   width: 249px;
 }
+
 .link10 {
   background: rgba(255, 255, 255, 0.8);
   border-radius: 14px;
@@ -831,6 +899,7 @@
     0px 4px 6px -1px rgba(0, 0, 0, 0.1);
   overflow: hidden;
 }
+
 .seychelles {
   color: #ffffff;
   text-align: left;
@@ -841,6 +910,7 @@
   position: relative;
   flex: 1;
 }
+
 .playas-de-arena-blanca-y-naturaleza-exuberante {
   color: rgba(255, 255, 255, 0.9);
   text-align: left;
@@ -853,6 +923,7 @@
   top: -1px;
   width: 249px;
 }
+
 .link11 {
   background: rgba(255, 255, 255, 0.8);
   border-radius: 14px;
@@ -870,6 +941,7 @@
     0px 4px 6px -1px rgba(0, 0, 0, 0.1);
   overflow: hidden;
 }
+
 .container20 {
   padding: 15.99px 15.99px 0px 15.99px;
   display: flex;
@@ -883,6 +955,7 @@
   left: 0px;
   top: 120.05px;
 }
+
 .mauricio {
   color: #ffffff;
   text-align: left;
@@ -893,6 +966,7 @@
   position: relative;
   flex: 1;
 }
+
 .destino-de-ensue-o-en-el-oc-ano-ndico {
   color: rgba(255, 255, 255, 0.9);
   text-align: left;
@@ -905,6 +979,7 @@
   top: -1px;
   width: 249px;
 }
+
 .container21 {
   background: rgba(255, 255, 255, 0.9);
   border-radius: 27962000px;
@@ -914,6 +989,7 @@
   left: 215.26px;
   top: 11.99px;
 }
+
 .container22 {
   border-radius: 16px;
   width: 1192.01px;
@@ -923,18 +999,18 @@
   top: 753.57px;
   overflow: hidden;
 }
+
 .container23 {
-  background: linear-gradient(
-    90deg,
-    rgba(0, 79, 59, 0.8) 0%,
-    rgba(2, 74, 112, 0.7) 100%
-  );
+  background: linear-gradient(90deg,
+      rgba(0, 79, 59, 0.8) 0%,
+      rgba(2, 74, 112, 0.7) 100%);
   width: 1192.01px;
   height: 320px;
   position: absolute;
   left: 0px;
   top: 0px;
 }
+
 .heading-22 {
   width: 624px;
   height: 40px;
@@ -942,6 +1018,7 @@
   left: 284.01px;
   top: 68.02px;
 }
+
 .listo-para-tu-pr-xima-aventura {
   color: #ffffff;
   text-align: center;
@@ -953,6 +1030,7 @@
   left: 25.02px;
   top: -2.17px;
 }
+
 .paragraph5 {
   width: 624px;
   height: 55.99px;
@@ -960,6 +1038,7 @@
   left: 284.01px;
   top: 124.01px;
 }
+
 .nete-a-miles-de-viajeros-que-ya-est-n-explorando {
   color: rgba(255, 255, 255, 0.9);
   text-align: center;
@@ -972,6 +1051,7 @@
   top: -2px;
   width: 624px;
 }
+
 .link12 {
   background: #ffffff;
   border-radius: 10px;
@@ -983,6 +1063,7 @@
   box-shadow: 0px 4px 6px -4px rgba(0, 0, 0, 0.1),
     0px 10px 15px -3px rgba(0, 0, 0, 0.1);
 }
+
 .comenzar-ahora {
   color: #0084d1;
   text-align: center;
@@ -994,6 +1075,7 @@
   left: 27.99px;
   top: 9.83px;
 }
+
 .container24 {
   width: 1192px;
   height: 143px;
@@ -1001,6 +1083,7 @@
   left: 24px;
   top: 168px;
 }
+
 .aventura-1 {
   border-radius: 14px;
   width: 185.34px;
@@ -1010,12 +1093,11 @@
   top: 1px;
   object-fit: cover;
 }
+
 .container25 {
-  background: linear-gradient(
-    135deg,
-    rgba(2, 74, 112, 0.7) 0%,
-    rgba(0, 79, 59, 0.6) 100%
-  );
+  background: linear-gradient(135deg,
+      rgba(2, 74, 112, 0.7) 0%,
+      rgba(0, 79, 59, 0.6) 100%);
   border-radius: 14px;
   width: 185.34px;
   height: 141.63px;
@@ -1023,12 +1105,11 @@
   left: 1007px;
   top: 0px;
 }
+
 .home3 {
-  background: linear-gradient(
-    135deg,
-    rgba(173, 70, 255, 1) 0%,
-    rgba(230, 0, 118, 1) 100%
-  );
+  background: linear-gradient(135deg,
+      rgba(173, 70, 255, 1) 0%,
+      rgba(230, 0, 118, 1) 100%);
   border-radius: 27962000px;
   padding: 0px 14px 0px 14px;
   display: flex;
@@ -1042,6 +1123,7 @@
   left: 37px;
   top: 23px;
 }
+
 .icon7 {
   flex-shrink: 0;
   width: 27.99px;
@@ -1049,6 +1131,7 @@
   position: relative;
   overflow: visible;
 }
+
 .aventura {
   color: #ffffff;
   text-align: left;
@@ -1061,6 +1144,7 @@
   top: 93px;
   width: 135.68px;
 }
+
 .naturaleza-1 {
   border-radius: 14px;
   width: 185.34px;
@@ -1070,12 +1154,11 @@
   top: 1px;
   object-fit: cover;
 }
+
 .container26 {
-  background: linear-gradient(
-    135deg,
-    rgba(2, 74, 112, 0.7) 0%,
-    rgba(0, 79, 59, 0.6) 100%
-  );
+  background: linear-gradient(135deg,
+      rgba(2, 74, 112, 0.7) 0%,
+      rgba(0, 79, 59, 0.6) 100%);
   border-radius: 14px;
   width: 185.34px;
   height: 141.63px;
@@ -1083,12 +1166,11 @@
   left: 805px;
   top: 1px;
 }
+
 .home4 {
-  background: linear-gradient(
-    135deg,
-    rgba(0, 201, 80, 1) 0%,
-    rgba(0, 153, 102, 1) 100%
-  );
+  background: linear-gradient(135deg,
+      rgba(0, 201, 80, 1) 0%,
+      rgba(0, 153, 102, 1) 100%);
   border-radius: 27962000px;
   padding: 0px 14px 0px 14px;
   display: flex;
@@ -1102,6 +1184,7 @@
   left: 25px;
   top: 22px;
 }
+
 .icon8 {
   flex-shrink: 0;
   width: 27.99px;
@@ -1109,6 +1192,7 @@
   position: relative;
   overflow: visible;
 }
+
 .naturaleza {
   color: #ffffff;
   text-align: left;
@@ -1121,6 +1205,7 @@
   top: 92px;
   width: 135.68px;
 }
+
 .gastronom-a-1 {
   border-radius: 14px;
   width: 185.34px;
@@ -1130,12 +1215,11 @@
   top: 1px;
   object-fit: cover;
 }
+
 .container27 {
-  background: linear-gradient(
-    135deg,
-    rgba(2, 74, 112, 0.7) 0%,
-    rgba(0, 79, 59, 0.6) 100%
-  );
+  background: linear-gradient(135deg,
+      rgba(2, 74, 112, 0.7) 0%,
+      rgba(0, 79, 59, 0.6) 100%);
   border-radius: 14px;
   width: 185.34px;
   height: 141.63px;
@@ -1143,12 +1227,11 @@
   left: 604px;
   top: 1px;
 }
+
 .home5 {
-  background: linear-gradient(
-    135deg,
-    rgba(255, 185, 0, 1) 0%,
-    rgba(255, 105, 0, 1) 100%
-  );
+  background: linear-gradient(135deg,
+      rgba(255, 185, 0, 1) 0%,
+      rgba(255, 105, 0, 1) 100%);
   border-radius: 27962000px;
   padding: 0px 14px 0px 14px;
   display: flex;
@@ -1162,6 +1245,7 @@
   left: 27px;
   top: 22px;
 }
+
 .icon9 {
   flex-shrink: 0;
   width: 27.99px;
@@ -1169,6 +1253,7 @@
   position: relative;
   overflow: visible;
 }
+
 .gastronom-a {
   color: #ffffff;
   text-align: left;
@@ -1181,6 +1266,7 @@
   top: 91px;
   width: 135.69px;
 }
+
 .ciudad-1 {
   border-radius: 14px;
   width: 185.34px;
@@ -1190,12 +1276,11 @@
   top: 1px;
   object-fit: cover;
 }
+
 .container28 {
-  background: linear-gradient(
-    135deg,
-    rgba(2, 74, 112, 0.7) 0%,
-    rgba(0, 79, 59, 0.6) 100%
-  );
+  background: linear-gradient(135deg,
+      rgba(2, 74, 112, 0.7) 0%,
+      rgba(0, 79, 59, 0.6) 100%);
   border-radius: 14px;
   width: 185.34px;
   height: 141.63px;
@@ -1203,12 +1288,11 @@
   left: 403px;
   top: 1px;
 }
+
 .home6 {
-  background: linear-gradient(
-    135deg,
-    rgba(255, 137, 4, 1) 0%,
-    rgba(251, 44, 54, 1) 100%
-  );
+  background: linear-gradient(135deg,
+      rgba(255, 137, 4, 1) 0%,
+      rgba(251, 44, 54, 1) 100%);
   border-radius: 27962000px;
   padding: 0px 14px 0px 14px;
   display: flex;
@@ -1222,6 +1306,7 @@
   left: 25px;
   top: 25px;
 }
+
 .icon10 {
   flex-shrink: 0;
   width: 27.99px;
@@ -1229,6 +1314,7 @@
   position: relative;
   overflow: visible;
 }
+
 .home7 {
   display: flex;
   flex-direction: row;
@@ -1241,6 +1327,7 @@
   left: 25px;
   top: 93px;
 }
+
 .ciudades {
   color: #ffffff;
   text-align: left;
@@ -1251,6 +1338,7 @@
   position: relative;
   flex: 1;
 }
+
 .monta-a-1 {
   border-radius: 14px;
   width: 185.34px;
@@ -1260,12 +1348,11 @@
   top: 0px;
   object-fit: cover;
 }
+
 .container29 {
-  background: linear-gradient(
-    135deg,
-    rgba(2, 74, 112, 0.7) 0%,
-    rgba(0, 79, 59, 0.6) 100%
-  );
+  background: linear-gradient(135deg,
+      rgba(2, 74, 112, 0.7) 0%,
+      rgba(0, 79, 59, 0.6) 100%);
   border-radius: 14px;
   width: 185.34px;
   height: 141.63px;
@@ -1273,12 +1360,11 @@
   left: 202px;
   top: 0px;
 }
+
 .home8 {
-  background: linear-gradient(
-    135deg,
-    rgba(0, 188, 125, 1) 0%,
-    rgba(0, 150, 137, 1) 100%
-  );
+  background: linear-gradient(135deg,
+      rgba(0, 188, 125, 1) 0%,
+      rgba(0, 150, 137, 1) 100%);
   border-radius: 27962000px;
   padding: 0px 14px 0px 14px;
   display: flex;
@@ -1292,6 +1378,7 @@
   left: 23px;
   top: 24px;
 }
+
 .icon11 {
   flex-shrink: 0;
   width: 27.99px;
@@ -1299,6 +1386,7 @@
   position: relative;
   overflow: visible;
 }
+
 .home9 {
   display: flex;
   flex-direction: row;
@@ -1311,6 +1399,7 @@
   left: 25px;
   top: 95px;
 }
+
 .monta-as {
   color: #ffffff;
   text-align: left;
@@ -1321,8 +1410,9 @@
   position: relative;
   flex: 1;
 }
+
 .playa-1 {
-  border-radius: 0px;
+  border-radius: 14px;
   width: 185.34px;
   height: 141.63px;
   position: absolute;
@@ -1331,12 +1421,11 @@
   overflow: visible;
   object-fit: cover;
 }
+
 .container30 {
-  background: linear-gradient(
-    135deg,
-    rgba(2, 74, 112, 0.7) 0%,
-    rgba(0, 79, 59, 0.6) 100%
-  );
+  background: linear-gradient(135deg,
+      rgba(2, 74, 112, 0.7) 0%,
+      rgba(0, 79, 59, 0.6) 100%);
   border-radius: 14px;
   width: 185.34px;
   height: 141.63px;
@@ -1344,6 +1433,7 @@
   left: 1px;
   top: 1px;
 }
+
 .playas {
   color: #ffffff;
   text-align: left;
@@ -1356,12 +1446,11 @@
   top: 96px;
   width: 135.68px;
 }
+
 .home10 {
-  background: linear-gradient(
-    135deg,
-    rgba(0, 188, 255, 1) 0%,
-    rgba(0, 184, 219, 1) 100%
-  );
+  background: linear-gradient(135deg,
+      rgba(0, 188, 255, 1) 0%,
+      rgba(0, 184, 219, 1) 100%);
   border-radius: 27962000px;
   padding: 0px 14px 0px 14px;
   display: flex;
@@ -1375,10 +1464,59 @@
   left: 25px;
   top: 26px;
 }
+
 .icon12 {
   flex-shrink: 0;
   width: 27.99px;
   height: 27.99px;
   position: relative;
   overflow: visible;
+}
+
+/* Interacciones de Navegación */
+.link,
+.link2,
+.link3,
+.link4,
+.link5,
+.link6,
+.link7,
+.link8,
+.link9,
+.link10,
+.link11,
+.link12,
+.button {
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.link:hover,
+.link2:hover,
+.link3:hover,
+.link4:hover {
+  background: rgba(118, 191, 255, 0.4);
+  transform: translateY(-2px);
+}
+
+.link:hover {
+  background: rgba(118, 191, 255, 0.8);
+}
+
+.button:hover,
+.link5:hover,
+.link12:hover {
+  transform: translateY(-2px);
+  box-shadow: 0px 6px 12px -2px rgba(0, 0, 0, 0.2), 0px 8px 16px -1px rgba(0, 0, 0, 0.15);
+  filter: brightness(1.1);
+}
+
+.link:active,
+.link2:active,
+.link3:active,
+.link4:active,
+.button:active,
+.link5:active,
+.link12:active {
+  transform: translateY(0);
 }

@@ -1,0 +1,143 @@
+/* responsive.css - Responsividad Verdadera y Solución de Textos (Flexbox) */
+
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  overflow-x: hidden;
+  background-color: #f8fafc;
+}
+
+/* 
+  ESCRITORIO: Seleccionamos SOLO a los hijos directos del body 
+  (los contenedores principales) para evitar afectar botones o textos 
+  internos que compartan el mismo nombre de clase como ".inicio" o ".layout".
+  Esto soluciona el problema de los textos de navegación cortados.
+*/
+body > div {
+  width: 1240px !important;
+  max-width: 100%;
+  margin: 0 auto !important;
+  position: relative !important;
+  background-color: #ffffff;
+  overflow: hidden;
+}
+
+/* Permitir que la navegación y botones respiren sin recortes en desktop */
+.navigation div, [class*="link"] div {
+  overflow: visible !important;
+}
+
+/* Evitar que ubicaciones o textos clave salten a dos renglones en TODAS las resoluciones */
+[class*="polinesia"], [class*="ndico"], [class*="oriental"], [class*="tanzania"], 
+[class*="maldivas"], [class*="mauricio"], [class*="bora-bora"], [class*="seychelles"],
+[class*="ubicacion"] {
+  white-space: nowrap !important;
+  width: auto !important;
+  overflow: visible !important;
+}
+
+/* 
+  MÓVILES Y TABLETS: Reestructuración total a Flexbox 
+*/
+@media screen and (max-width: 1240px) {
+  
+  /* 1. Desbloquear anchos del contenedor principal */
+  body > div {
+    width: 100% !important;
+    height: auto !important;
+    min-height: 100vh !important;
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: center !important;
+    overflow-y: auto !important;
+  }
+
+  /* 2. Destruir posiciones absolutas */
+  div, span, p, a, input, button, img, svg {
+    position: relative !important;
+    left: auto !important;
+    top: auto !important;
+    right: auto !important;
+    bottom: auto !important;
+    transform: none !important;
+    height: auto !important;
+    min-height: min-content !important;
+    max-width: 100vw !important;
+  }
+
+
+  /* 4. Comportamiento de Contenedores y Tarjetas */
+  [class^="container"] {
+    width: 100% !important;
+    display: flex !important;
+    flex-wrap: wrap !important;
+    justify-content: center !important;
+    align-items: center !important;
+    gap: 15px !important;
+    padding: 10px !important;
+    min-width: 0 !important;
+  }
+
+  /* 5. Asegurar que las tarjetas de destino y filtros mantengan forma */
+  .container17, .container18, .container19, .container20 {
+    width: auto !important;
+    flex-direction: column !important;
+    text-align: center !important;
+  }
+
+  /* 6. Solapamiento de Banner y Texto */
+  .container4, .container24 {
+    display: grid !important;
+    padding: 0 !important;
+  }
+  .container4 > div, .container24 > div {
+    grid-area: 1 / 1 !important;
+    width: 100% !important;
+  }
+  [style*="background"] {
+    background-size: cover !important;
+    background-position: center !important;
+    min-height: 150px;
+  }
+
+  /* 7. Espaciados requeridos por el usuario */
+  [class^="heading"], [class^="paragraph"], .text, [class*="title"], [class*="label"], [class*="ndico"], [class*="francesa"] {
+    margin-top: 10px !important;
+    margin-bottom: 10px !important;
+    text-align: center !important;
+    line-height: 1.5 !important;
+  }
+
+  /* 8. Navegación en móvil */
+  .navigation .container2 {
+    flex-direction: column !important;
+  }
+  
+  /* Arreglar botones en móvil para que icono y texto fluyan lado a lado */
+  [class*="link"], [class*="button"] {
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    justify-content: center !important;
+    gap: 8px !important;
+    width: fit-content !important;
+    padding: 10px 15px !important;
+  }
+
+  /* 9. Ajuste de imágenes e íconos */
+  img, svg {
+    max-width: 100% !important;
+    height: auto !important;
+    object-fit: contain !important;
+  }
+  [class*="icon"] {
+    width: 24px !important;
+    max-height: 24px !important;
+    margin: 0 !important;
+  }
+}

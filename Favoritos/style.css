@@ -1249,3 +1249,19 @@
   left: 397.22px;
   top: -2.17px;
 }
+
+/* Interacciones de Navegacion y Botones */
+[class^="link"], [class^="button"] {
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+[class^="link"]:hover, [class^="button"]:hover {
+  transform: translateY(-2px);
+  filter: brightness(1.05);
+}
+
+[class^="link"]:active, [class^="button"]:active {
+  transform: translateY(0);
+}
+

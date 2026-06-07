@@ -2,6 +2,7 @@
 .inicio-de-sesi-n * {
   box-sizing: border-box;
 }
+
 .inicio-de-sesi-n {
   background: #ffffff;
   display: flex;
@@ -12,6 +13,7 @@
   height: 758px;
   position: relative;
 }
+
 .body {
   display: flex;
   flex-direction: column;
@@ -23,24 +25,25 @@
   height: 758px;
   position: relative;
 }
+
 .layout {
   align-self: stretch;
   flex-shrink: 0;
   height: 758px;
   position: relative;
 }
+
 .container {
-  background: linear-gradient(
-    135deg,
-    rgba(2, 74, 112, 0.7) 0%,
-    rgba(0, 79, 59, 0.6) 100%
-  );
+  background: linear-gradient(135deg,
+      rgba(2, 74, 112, 0.7) 0%,
+      rgba(0, 79, 59, 0.6) 100%);
   width: 1240px;
   height: 758px;
   position: absolute;
   left: 0px;
   top: 0px;
 }
+
 .container2 {
   padding: 0px 24px 0px 24px;
   display: flex;
@@ -54,6 +57,7 @@
   left: 396px;
   top: 31px;
 }
+
 .container3 {
   background: rgba(255, 255, 255, 0.9);
   border-radius: 16px;
@@ -63,6 +67,7 @@
   position: relative;
   box-shadow: 0px 25px 50px -12px rgba(0, 0, 0, 0.25);
 }
+
 .container4 {
   width: 336.02px;
   height: 119.97px;
@@ -70,6 +75,7 @@
   left: 31.99px;
   top: 31.99px;
 }
+
 .heading-1 {
   display: flex;
   flex-direction: row;
@@ -82,6 +88,7 @@
   left: 0px;
   top: 55.99px;
 }
+
 .bienvenido-de-nuevo {
   color: #1e2939;
   text-align: center;
@@ -92,6 +99,7 @@
   position: relative;
   flex: 1;
 }
+
 .paragraph {
   width: 336.02px;
   height: 24px;
@@ -99,6 +107,7 @@
   left: 0px;
   top: 95.98px;
 }
+
 .inicia-sesi-n-para-continuar-tu-aventura {
   color: #4a5565;
   text-align: center;
@@ -110,6 +119,7 @@
   left: 19.6px;
   top: -2.17px;
 }
+
 .link {
   display: flex;
   flex-direction: row;
@@ -122,6 +132,7 @@
   left: 68.01px;
   top: 0.01px;
 }
+
 .fluent-beach-28-regular {
   flex-shrink: 0;
   width: 50px;
@@ -130,6 +141,7 @@
   overflow: visible;
   aspect-ratio: 1;
 }
+
 .layout2 {
   display: flex;
   flex-direction: row;
@@ -141,6 +153,7 @@
   height: 32px;
   position: relative;
 }
+
 .ruta-viajera {
   background: linear-gradient(to left, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),
     linear-gradient(90deg, rgba(0, 132, 209, 1) 0%, rgba(0, 153, 102, 1) 100%);
@@ -154,6 +167,7 @@
   font-weight: 700;
   position: relative;
 }
+
 .form {
   display: flex;
   flex-direction: column;
@@ -166,6 +180,7 @@
   left: 31.99px;
   top: 183.96px;
 }
+
 .container5 {
   display: flex;
   flex-direction: column;
@@ -177,6 +192,7 @@
   height: 77.63px;
   position: relative;
 }
+
 .label {
   display: flex;
   flex-direction: row;
@@ -188,6 +204,7 @@
   height: 19.99px;
   position: relative;
 }
+
 .correo-electr-nico {
   color: #364153;
   text-align: left;
@@ -198,12 +215,14 @@
   position: relative;
   flex: 1;
 }
+
 .container6 {
   align-self: stretch;
   flex-shrink: 0;
   height: 49.65px;
   position: relative;
 }
+
 .email-input {
   background: #ffffff;
   border-radius: 10px;
@@ -223,6 +242,7 @@
   top: 0px;
   overflow: hidden;
 }
+
 .tu-email-com {
   color: rgba(10, 10, 10, 0.5);
   text-align: left;
@@ -231,6 +251,7 @@
   font-weight: 400;
   position: relative;
 }
+
 .icon {
   width: 20px;
   height: 20px;
@@ -239,6 +260,7 @@
   top: 14.82px;
   overflow: visible;
 }
+
 .contrase-a {
   color: #364153;
   text-align: left;
@@ -249,6 +271,7 @@
   position: relative;
   flex: 1;
 }
+
 .password-input {
   background: #ffffff;
   border-radius: 10px;
@@ -268,6 +291,7 @@
   top: 0px;
   overflow: hidden;
 }
+
 .div {
   color: rgba(10, 10, 10, 0.5);
   text-align: left;
@@ -276,6 +300,7 @@
   font-weight: 400;
   position: relative;
 }
+
 .icon2 {
   width: 20px;
   height: 20px;
@@ -284,6 +309,7 @@
   top: 14.82px;
   overflow: visible;
 }
+
 .container7 {
   padding: 0px;
   display: flex;
@@ -295,6 +321,7 @@
   height: 24px;
   position: relative;
 }
+
 .label2 {
   display: flex;
   flex-direction: row;
@@ -306,17 +333,20 @@
   height: 24px;
   position: relative;
 }
+
 .checkbox {
   flex-shrink: 0;
   width: 15.99px;
   height: 15.99px;
   position: relative;
 }
+
 .text {
   flex: 1;
   height: 24px;
   position: relative;
 }
+
 .recordarme {
   color: #4a5565;
   text-align: left;
@@ -328,6 +358,7 @@
   left: 0px;
   top: -2.17px;
 }
+
 .link2 {
   display: flex;
   flex-direction: row;
@@ -335,10 +366,11 @@
   align-items: flex-start;
   justify-content: flex-start;
   flex-shrink: 0;
-  width: 162.16px;
+  width: 200px;
   height: 19.99px;
   position: relative;
 }
+
 .olvidaste-tu-contrase-a {
   color: #0084d1;
   text-align: left;
@@ -348,12 +380,11 @@
   font-weight: 600;
   position: relative;
 }
+
 .button {
-  background: linear-gradient(
-    90deg,
-    rgba(0, 132, 209, 1) 0%,
-    rgba(0, 153, 102, 1) 100%
-  );
+  background: linear-gradient(90deg,
+      rgba(0, 132, 209, 1) 0%,
+      rgba(0, 153, 102, 1) 100%);
   border-radius: 10px;
   align-self: stretch;
   flex-shrink: 0;
@@ -362,6 +393,7 @@
   box-shadow: 0px 2px 4px -2px rgba(0, 0, 0, 0.1),
     0px 4px 6px -1px rgba(0, 0, 0, 0.1);
 }
+
 .iniciar-sesi-n {
   color: #ffffff;
   text-align: center;
@@ -373,6 +405,7 @@
   left: 116.13px;
   top: 9.83px;
 }
+
 .container8 {
   width: 336.02px;
   height: 24px;
@@ -380,6 +413,7 @@
   left: 31.99px;
   top: 495.2px;
 }
+
 .no-tienes-cuenta-reg-strate-aqu {
   text-align: center;
   font-family: "-", sans-serif;
@@ -390,15 +424,18 @@
   left: 35.48px;
   top: -2.17px;
 }
+
 .no-tienes-cuenta-reg-strate-aqu-span {
   color: #4a5565;
   font-family: "Inter-Regular", sans-serif;
 }
+
 .no-tienes-cuenta-reg-strate-aqu-span2 {
   color: #0084d1;
   font-family: "Inter-SemiBold", sans-serif;
   font-weight: 600;
 }
+
 .container9 {
   display: flex;
   flex-direction: column;
@@ -411,12 +448,14 @@
   left: 31.99px;
   top: 543.19px;
 }
+
 .container10 {
   align-self: stretch;
   flex-shrink: 0;
   height: 19.99px;
   position: relative;
 }
+
 .container11 {
   display: flex;
   flex-direction: row;
@@ -429,6 +468,7 @@
   left: 0px;
   top: 0px;
 }
+
 .container12 {
   border-style: solid;
   border-color: #d1d5dc;
@@ -438,6 +478,7 @@
   height: 0.83px;
   position: relative;
 }
+
 .container13 {
   padding: 0px 104.77px 0px 104.75px;
   display: flex;
@@ -451,6 +492,7 @@
   left: 0px;
   top: 0px;
 }
+
 .text2 {
   background: #ffffff;
   padding: 0px 16px 0px 16px;
@@ -464,6 +506,7 @@
   height: 19.99px;
   position: relative;
 }
+
 .o-contin-a-con {
   color: #6a7282;
   text-align: left;
@@ -473,12 +516,14 @@
   font-weight: 400;
   position: relative;
 }
+
 .container14 {
   align-self: stretch;
   flex-shrink: 0;
   height: 37.66px;
   position: relative;
 }
+
 .button2 {
   background: #ffffff;
   border-radius: 10px;
@@ -497,6 +542,7 @@
   left: 0px;
   top: 0px;
 }
+
 .icon3 {
   flex-shrink: 0;
   width: 20px;
@@ -504,6 +550,7 @@
   position: relative;
   overflow: visible;
 }
+
 .text3 {
   display: flex;
   flex-direction: row;
@@ -515,6 +562,7 @@
   height: 19.99px;
   position: relative;
 }
+
 .google {
   color: #364153;
   text-align: center;
@@ -524,6 +572,7 @@
   font-weight: 500;
   position: relative;
 }
+
 .button3 {
   background: #ffffff;
   border-radius: 10px;
@@ -542,6 +591,7 @@
   left: 174px;
   top: 0px;
 }
+
 .icon4 {
   flex-shrink: 0;
   width: 20px;
@@ -549,6 +599,7 @@
   position: relative;
   overflow: visible;
 }
+
 .text4 {
   display: flex;
   flex-direction: row;
@@ -560,6 +611,7 @@
   height: 19.99px;
   position: relative;
 }
+
 .facebook {
   color: #364153;
   text-align: center;
@@ -569,6 +621,7 @@
   font-weight: 500;
   position: relative;
 }
+
 .container15 {
   padding: 0px 138.06px 0px 138.06px;
   display: flex;
@@ -581,12 +634,15 @@
   height: 24px;
   position: relative;
 }
+
 .link3 {
   align-self: stretch;
   flex-shrink: 0;
   height: 24px;
   position: relative;
+  white-space: nowrap;
 }
+
 .volver-al-inicio {
   color: rgba(255, 255, 255, 0.9);
   text-align: center;
@@ -597,4 +653,22 @@
   position: absolute;
   left: -4.06px;
   top: -11.81px;
+}
+
+/* Interacciones de Navegacion y Botones */
+[class^="link"],
+[class^="button"] {
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+[class^="link"]:hover,
+[class^="button"]:hover {
+  transform: translateY(-2px);
+  filter: brightness(1.05);
+}
+
+[class^="link"]:active,
+[class^="button"]:active {
+  transform: translateY(0);
 }

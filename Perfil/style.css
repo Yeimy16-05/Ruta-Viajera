@@ -2,6 +2,7 @@
 .perfil * {
   box-sizing: border-box;
 }
+
 .perfil {
   background: #ffffff;
   display: flex;
@@ -12,6 +13,7 @@
   height: 1862px;
   position: relative;
 }
+
 .body {
   display: flex;
   flex-direction: column;
@@ -23,12 +25,11 @@
   height: 640px;
   position: relative;
 }
+
 .layout {
-  background: linear-gradient(
-    135deg,
-    rgba(223, 242, 254, 1) 0%,
-    rgba(236, 253, 245, 1) 100%
-  );
+  background: linear-gradient(135deg,
+      rgba(223, 242, 254, 1) 0%,
+      rgba(236, 253, 245, 1) 100%);
   display: flex;
   flex-direction: column;
   gap: 0px;
@@ -41,6 +42,7 @@
   left: 0px;
   top: 0px;
 }
+
 .navigation {
   background: rgba(255, 255, 255, 0.8);
   border-style: solid;
@@ -57,6 +59,7 @@
   height: 72.8px;
   position: relative;
 }
+
 .container {
   padding: 15.99px 24px 0px 24px;
   display: flex;
@@ -69,6 +72,7 @@
   height: 71.97px;
   position: relative;
 }
+
 .container2 {
   padding: 0px;
   display: flex;
@@ -80,6 +84,7 @@
   height: 39.99px;
   position: relative;
 }
+
 .link {
   display: flex;
   flex-direction: row;
@@ -91,6 +96,7 @@
   height: 32px;
   position: relative;
 }
+
 .fluent-beach-28-regular {
   flex-shrink: 0;
   width: 50px;
@@ -99,6 +105,7 @@
   overflow: visible;
   aspect-ratio: 1;
 }
+
 .layout2 {
   display: flex;
   flex-direction: row;
@@ -110,6 +117,7 @@
   height: 31.99px;
   position: relative;
 }
+
 .ruta-viajera {
   background: linear-gradient(to left, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0)),
     linear-gradient(90deg, rgba(0, 132, 209, 1) 0%, rgba(0, 153, 102, 1) 100%);
@@ -123,6 +131,7 @@
   font-weight: 700;
   position: relative;
 }
+
 .container3 {
   display: flex;
   flex-direction: row;
@@ -134,6 +143,7 @@
   height: 39.99px;
   position: relative;
 }
+
 .link2 {
   border-radius: 10px;
   padding: 8px 16px 8px 15.99px;
@@ -147,6 +157,7 @@
   height: 39.99px;
   position: relative;
 }
+
 .icon {
   flex-shrink: 0;
   width: 20px;
@@ -154,12 +165,14 @@
   position: relative;
   overflow: visible;
 }
+
 .layout3 {
   flex-shrink: 0;
   width: 37.84px;
   height: 24px;
   position: relative;
 }
+
 .inicio {
   color: #364153;
   text-align: left;
@@ -171,6 +184,7 @@
   left: 0px;
   top: -2.17px;
 }
+
 .link3 {
   border-radius: 10px;
   padding: 8px 16px 8px 15.99px;
@@ -184,6 +198,7 @@
   height: 39.99px;
   position: relative;
 }
+
 .icon2 {
   flex-shrink: 0;
   width: 20px;
@@ -191,12 +206,14 @@
   position: relative;
   overflow: visible;
 }
+
 .layout4 {
   flex-shrink: 0;
   width: 57.37px;
   height: 24px;
   position: relative;
 }
+
 .explorar {
   color: #364153;
   text-align: left;
@@ -208,6 +225,7 @@
   left: 0px;
   top: -2.17px;
 }
+
 .link4 {
   border-radius: 10px;
   padding: 8px 16px 8px 15.99px;
@@ -221,6 +239,7 @@
   height: 39.99px;
   position: relative;
 }
+
 .icon3 {
   flex-shrink: 0;
   width: 20px;
@@ -228,12 +247,14 @@
   position: relative;
   overflow: visible;
 }
+
 .layout5 {
   flex-shrink: 0;
   width: 63.48px;
   height: 24px;
   position: relative;
 }
+
 .favoritos {
   color: #364153;
   text-align: left;
@@ -245,6 +266,7 @@
   left: 0px;
   top: -2.17px;
 }
+
 .link5 {
   background: rgba(118, 191, 255, 0.62);
   border-radius: 10px;
@@ -255,10 +277,11 @@
   align-items: center;
   justify-content: flex-start;
   flex-shrink: 0;
-  width: 95.04px;
+  width: 110.04px;
   height: 39.99px;
   position: relative;
 }
+
 .icon4 {
   flex-shrink: 0;
   width: 20px;
@@ -266,37 +289,39 @@
   position: relative;
   overflow: visible;
 }
+
 .layout6 {
   flex-shrink: 0;
-  width: 35.07px;
+  width: 110px;
   height: 24px;
   position: relative;
 }
+
 .perfil2 {
   color: #364153;
   text-align: left;
-  font-family: "Inter-Regular", sans-serif;
+  font-family: "Inter-ExtraBold", sans-serif;
   font-size: 16px;
   line-height: 24px;
-  font-weight: 400;
+  font-weight: 800;
   position: absolute;
   left: 0px;
   top: -2.17px;
 }
+
 .link6 {
-  background: linear-gradient(
-    90deg,
-    rgba(0, 132, 209, 1) 0%,
-    rgba(0, 153, 102, 1) 100%
-  );
+  background: linear-gradient(90deg,
+      rgba(0, 132, 209, 1) 0%,
+      rgba(0, 153, 102, 1) 100%);
   border-radius: 10px;
   flex-shrink: 0;
-  width: 140.49px;
+  width: 144px;
   height: 39.99px;
   position: relative;
   box-shadow: 0px 2px 4px -2px rgba(0, 0, 0, 0.1),
     0px 4px 6px -1px rgba(0, 0, 0, 0.1);
 }
+
 .iniciar-sesi-n {
   color: #ffffff;
   text-align: left;
@@ -308,12 +333,14 @@
   left: 24px;
   top: 5.83px;
 }
+
 .profile {
   align-self: stretch;
   flex-shrink: 0;
   height: 1004px;
   position: relative;
 }
+
 .container4 {
   display: flex;
   flex-direction: column;
@@ -326,17 +353,17 @@
   left: 0px;
   top: 0px;
 }
+
 .container5 {
-  background: linear-gradient(
-    90deg,
-    rgba(49, 44, 133, 0.8) 0%,
-    rgba(89, 22, 139, 0.7) 100%
-  );
+  background: linear-gradient(90deg,
+      rgba(49, 44, 133, 0.8) 0%,
+      rgba(89, 22, 139, 0.7) 100%);
   align-self: stretch;
   flex-shrink: 0;
   height: 255.99px;
   position: relative;
 }
+
 .container6 {
   padding: 0px 24px 0px 24px;
   display: flex;
@@ -350,6 +377,7 @@
   left: 44px;
   top: 176.2px;
 }
+
 .container7 {
   background: rgba(255, 255, 255, 0.9);
   border-radius: 14px;
@@ -369,12 +397,14 @@
   box-shadow: 0px 8px 10px -6px rgba(0, 0, 0, 0.1),
     0px 20px 25px -5px rgba(0, 0, 0, 0.1);
 }
+
 .container8 {
   align-self: stretch;
   flex-shrink: 0;
   height: 153.61px;
   position: relative;
 }
+
 .container9 {
   width: 127.99px;
   height: 127.99px;
@@ -382,12 +412,11 @@
   left: 0px;
   top: 0px;
 }
+
 .container10 {
-  background: linear-gradient(
-    135deg,
-    rgba(0, 188, 255, 1) 0%,
-    rgba(0, 188, 125, 1) 100%
-  );
+  background: linear-gradient(135deg,
+      rgba(0, 188, 255, 1) 0%,
+      rgba(0, 188, 125, 1) 100%);
   border-radius: 27962000px;
   display: flex;
   flex-direction: row;
@@ -402,6 +431,7 @@
   box-shadow: 0px 4px 6px -4px rgba(0, 0, 0, 0.1),
     0px 10px 15px -3px rgba(0, 0, 0, 0.1);
 }
+
 .jd {
   color: #ffffff;
   text-align: left;
@@ -411,6 +441,7 @@
   font-weight: 700;
   position: relative;
 }
+
 .button {
   background: #ffffff;
   border-radius: 27962000px;
@@ -431,6 +462,7 @@
   box-shadow: 0px 2px 4px -2px rgba(0, 0, 0, 0.1),
     0px 4px 6px -1px rgba(0, 0, 0, 0.1);
 }
+
 .icon5 {
   flex-shrink: 0;
   width: 20px;
@@ -438,6 +470,7 @@
   position: relative;
   overflow: visible;
 }
+
 .container11 {
   width: 730.35px;
   height: 153.61px;
@@ -445,6 +478,7 @@
   left: 151.99px;
   top: 0px;
 }
+
 .heading-1 {
   width: 730.35px;
   height: 35.99px;
@@ -452,6 +486,7 @@
   left: 0px;
   top: 0px;
 }
+
 .juan-p-rez {
   color: #1e2939;
   text-align: left;
@@ -463,6 +498,7 @@
   left: 0px;
   top: -2.5px;
 }
+
 .container12 {
   display: flex;
   flex-direction: row;
@@ -475,6 +511,7 @@
   left: 0px;
   top: 43.98px;
 }
+
 .container13 {
   display: flex;
   flex-direction: row;
@@ -486,6 +523,7 @@
   height: 24px;
   position: relative;
 }
+
 .icon6 {
   flex-shrink: 0;
   width: 15.99px;
@@ -493,11 +531,13 @@
   position: relative;
   overflow: visible;
 }
+
 .text {
   flex: 1;
   height: 24px;
   position: relative;
 }
+
 .juan-perez-email-com {
   color: #4a5565;
   text-align: left;
@@ -509,6 +549,7 @@
   left: 0px;
   top: -2.17px;
 }
+
 .container14 {
   display: flex;
   flex-direction: row;
@@ -520,6 +561,7 @@
   height: 24px;
   position: relative;
 }
+
 .icon7 {
   flex-shrink: 0;
   width: 15.99px;
@@ -527,12 +569,14 @@
   position: relative;
   overflow: visible;
 }
+
 .text2 {
   flex-shrink: 0;
-  width: 108.27px;
+  width: 150px;
   height: 24px;
   position: relative;
 }
+
 .madrid-espa-a {
   color: #4a5565;
   text-align: left;
@@ -544,6 +588,7 @@
   left: 0px;
   top: -2.17px;
 }
+
 .container15 {
   display: flex;
   flex-direction: row;
@@ -551,10 +596,11 @@
   align-items: center;
   justify-content: flex-start;
   flex-shrink: 0;
-  width: 204.26px;
+  width: 250px;
   height: 24px;
   position: relative;
 }
+
 .icon8 {
   flex-shrink: 0;
   width: 15.99px;
@@ -562,6 +608,7 @@
   position: relative;
   overflow: visible;
 }
+
 .miembro-desde-ene-2026 {
   color: #4a5565;
   text-align: left;
@@ -573,6 +620,7 @@
   left: 0px;
   top: -2.17px;
 }
+
 .container16 {
   display: flex;
   flex-direction: row;
@@ -585,12 +633,11 @@
   left: 0px;
   top: 83.97px;
 }
+
 .container17 {
-  background: linear-gradient(
-    135deg,
-    rgba(240, 249, 255, 1) 0%,
-    rgba(236, 253, 245, 1) 100%
-  );
+  background: linear-gradient(135deg,
+      rgba(240, 249, 255, 1) 0%,
+      rgba(236, 253, 245, 1) 100%);
   border-radius: 10px;
   border-style: solid;
   border-color: #dff2fe;
@@ -606,6 +653,7 @@
   height: 69.64px;
   position: relative;
 }
+
 .container18 {
   display: flex;
   flex-direction: row;
@@ -617,6 +665,7 @@
   height: 31.99px;
   position: relative;
 }
+
 ._12 {
   color: #0084d1;
   text-align: left;
@@ -627,6 +676,7 @@
   position: relative;
   flex: 1;
 }
+
 .container19 {
   display: flex;
   flex-direction: row;
@@ -638,6 +688,7 @@
   height: 19.99px;
   position: relative;
 }
+
 .favoritos2 {
   color: #4a5565;
   text-align: left;
@@ -647,12 +698,11 @@
   font-weight: 400;
   position: relative;
 }
+
 .container20 {
-  background: linear-gradient(
-    135deg,
-    rgba(250, 245, 255, 1) 0%,
-    rgba(253, 242, 248, 1) 100%
-  );
+  background: linear-gradient(135deg,
+      rgba(250, 245, 255, 1) 0%,
+      rgba(253, 242, 248, 1) 100%);
   border-radius: 10px;
   border-style: solid;
   border-color: #f3e8ff;
@@ -668,6 +718,7 @@
   height: 69.64px;
   position: relative;
 }
+
 ._5 {
   color: #9810fa;
   text-align: left;
@@ -678,6 +729,7 @@
   position: relative;
   flex: 1;
 }
+
 .viajes {
   color: #4a5565;
   text-align: left;
@@ -687,12 +739,11 @@
   font-weight: 400;
   position: relative;
 }
+
 .container21 {
-  background: linear-gradient(
-    135deg,
-    rgba(255, 251, 235, 1) 0%,
-    rgba(255, 247, 237, 1) 100%
-  );
+  background: linear-gradient(135deg,
+      rgba(255, 251, 235, 1) 0%,
+      rgba(255, 247, 237, 1) 100%);
   border-radius: 10px;
   border-style: solid;
   border-color: #fef3c6;
@@ -704,10 +755,11 @@
   align-items: flex-start;
   justify-content: flex-start;
   flex-shrink: 0;
-  width: 141.17px;
+  width: 150px;
   height: 69.64px;
   position: relative;
 }
+
 ._23 {
   color: #e17100;
   text-align: left;
@@ -718,6 +770,7 @@
   position: relative;
   flex: 1;
 }
+
 .lugares-visitados {
   color: #4a5565;
   text-align: left;
@@ -727,12 +780,11 @@
   font-weight: 400;
   position: relative;
 }
+
 .button2 {
-  background: linear-gradient(
-    90deg,
-    rgba(0, 132, 209, 1) 0%,
-    rgba(0, 153, 102, 1) 100%
-  );
+  background: linear-gradient(90deg,
+      rgba(0, 132, 209, 1) 0%,
+      rgba(0, 153, 102, 1) 100%);
   border-radius: 10px;
   width: 132.01px;
   height: 39.99px;
@@ -742,6 +794,7 @@
   box-shadow: 0px 2px 4px -2px rgba(0, 0, 0, 0.1),
     0px 4px 6px -1px rgba(0, 0, 0, 0.1);
 }
+
 .editar-perfil {
   color: #ffffff;
   text-align: center;
@@ -753,12 +806,14 @@
   left: 21px;
   top: 5.83px;
 }
+
 .container22 {
   align-self: stretch;
   flex-shrink: 0;
   height: 657px;
   position: relative;
 }
+
 .container23 {
   display: flex;
   flex-direction: column;
@@ -771,6 +826,7 @@
   left: 0px;
   top: 0px;
 }
+
 .container24 {
   background: rgba(255, 255, 255, 0.8);
   border-radius: 14px;
@@ -785,6 +841,7 @@
   box-shadow: 0px 2px 4px -2px rgba(0, 0, 0, 0.1),
     0px 4px 6px -1px rgba(0, 0, 0, 0.1);
 }
+
 .heading-2 {
   width: 678.33px;
   height: 27.99px;
@@ -792,6 +849,7 @@
   left: 24.83px;
   top: 24.83px;
 }
+
 .icon9 {
   width: 24px;
   height: 24px;
@@ -800,6 +858,7 @@
   top: 1.99px;
   overflow: visible;
 }
+
 .preferencias-de-viaje {
   color: #1e2939;
   text-align: left;
@@ -811,6 +870,7 @@
   left: 31.99px;
   top: -2px;
 }
+
 .container25 {
   display: flex;
   flex-direction: column;
@@ -823,6 +883,7 @@
   left: 24.83px;
   top: 68.82px;
 }
+
 .label {
   display: flex;
   flex-direction: row;
@@ -834,6 +895,7 @@
   height: 19.99px;
   position: relative;
 }
+
 .tipos-de-destino-favoritos {
   color: #364153;
   text-align: left;
@@ -844,18 +906,18 @@
   position: relative;
   flex: 1;
 }
+
 .container26 {
   align-self: stretch;
   flex-shrink: 0;
   height: 41.65px;
   position: relative;
 }
+
 .button3 {
-  background: linear-gradient(
-    90deg,
-    rgba(0, 132, 209, 1) 0%,
-    rgba(0, 153, 102, 1) 100%
-  );
+  background: linear-gradient(90deg,
+      rgba(0, 132, 209, 1) 0%,
+      rgba(0, 153, 102, 1) 100%);
   border-radius: 10px;
   border-style: solid;
   border-color: rgba(0, 0, 0, 0);
@@ -869,6 +931,7 @@
   box-shadow: 0px 2px 4px -2px rgba(0, 0, 0, 0.1),
     0px 4px 6px -1px rgba(0, 0, 0, 0.1);
 }
+
 .playas {
   color: #ffffff;
   text-align: center;
@@ -880,12 +943,11 @@
   left: 14.82px;
   top: 6.66px;
 }
+
 .button4 {
-  background: linear-gradient(
-    90deg,
-    rgba(0, 132, 209, 1) 0%,
-    rgba(0, 153, 102, 1) 100%
-  );
+  background: linear-gradient(90deg,
+      rgba(0, 132, 209, 1) 0%,
+      rgba(0, 153, 102, 1) 100%);
   border-radius: 10px;
   border-style: solid;
   border-color: rgba(0, 0, 0, 0);
@@ -899,6 +961,7 @@
   box-shadow: 0px 2px 4px -2px rgba(0, 0, 0, 0.1),
     0px 4px 6px -1px rgba(0, 0, 0, 0.1);
 }
+
 .monta-as {
   color: #ffffff;
   text-align: center;
@@ -910,12 +973,11 @@
   left: 14.82px;
   top: 6.66px;
 }
+
 .button5 {
-  background: linear-gradient(
-    90deg,
-    rgba(0, 132, 209, 1) 0%,
-    rgba(0, 153, 102, 1) 100%
-  );
+  background: linear-gradient(90deg,
+      rgba(0, 132, 209, 1) 0%,
+      rgba(0, 153, 102, 1) 100%);
   border-radius: 10px;
   border-style: solid;
   border-color: #d1d5dc;
@@ -927,6 +989,7 @@
   left: 200.96px;
   top: 0px;
 }
+
 .ciudades {
   color: #ffffff;
   text-align: center;
@@ -938,12 +1001,11 @@
   left: 13.82px;
   top: 6.66px;
 }
+
 .button6 {
-  background: linear-gradient(
-    90deg,
-    rgba(0, 132, 209, 1) 0%,
-    rgba(0, 153, 102, 1) 100%
-  );
+  background: linear-gradient(90deg,
+      rgba(0, 132, 209, 1) 0%,
+      rgba(0, 153, 102, 1) 100%);
   border-radius: 10px;
   border-style: solid;
   border-color: rgba(0, 0, 0, 0);
@@ -957,6 +1019,7 @@
   box-shadow: 0px 2px 4px -2px rgba(0, 0, 0, 0.1),
     0px 4px 6px -1px rgba(0, 0, 0, 0.1);
 }
+
 .naturaleza {
   color: #ffffff;
   text-align: center;
@@ -968,12 +1031,11 @@
   left: 13.82px;
   top: 6.66px;
 }
+
 .button7 {
-  background: linear-gradient(
-    90deg,
-    rgba(0, 132, 209, 1) 0%,
-    rgba(0, 153, 102, 1) 100%
-  );
+  background: linear-gradient(90deg,
+      rgba(0, 132, 209, 1) 0%,
+      rgba(0, 153, 102, 1) 100%);
   border-radius: 10px;
   border-style: solid;
   border-color: rgba(0, 0, 0, 0);
@@ -987,6 +1049,7 @@
   box-shadow: 0px 2px 4px -2px rgba(0, 0, 0, 0.1),
     0px 4px 6px -1px rgba(0, 0, 0, 0.1);
 }
+
 .aventura {
   color: #ffffff;
   text-align: center;
@@ -998,12 +1061,11 @@
   left: 15.82px;
   top: 6.66px;
 }
+
 .button8 {
-  background: linear-gradient(
-    90deg,
-    rgba(0, 132, 209, 1) 0%,
-    rgba(0, 153, 102, 1) 100%
-  );
+  background: linear-gradient(90deg,
+      rgba(0, 132, 209, 1) 0%,
+      rgba(0, 153, 102, 1) 100%);
   border-radius: 10px;
   border-style: solid;
   border-color: #d1d5dc;
@@ -1015,6 +1077,7 @@
   left: 536.47px;
   top: 0px;
 }
+
 .cultural {
   color: #364153;
   text-align: center;
@@ -1026,6 +1089,7 @@
   left: 15.82px;
   top: 6.66px;
 }
+
 .container27 {
   display: flex;
   flex-direction: column;
@@ -1038,6 +1102,7 @@
   left: 24.83px;
   top: 166.45px;
 }
+
 .presupuesto-preferido {
   color: #364153;
   text-align: left;
@@ -1048,6 +1113,7 @@
   position: relative;
   flex: 1;
 }
+
 .dropdown {
   background: #ffffff;
   border-radius: 10px;
@@ -1060,6 +1126,7 @@
   height: 40.99px;
   position: relative;
 }
+
 .container28 {
   display: flex;
   flex-direction: column;
@@ -1072,6 +1139,7 @@
   left: 371.99px;
   top: 166.45px;
 }
+
 .duraci-n-de-viaje-ideal {
   color: #364153;
   text-align: left;
@@ -1082,6 +1150,7 @@
   position: relative;
   flex: 1;
 }
+
 .container29 {
   background: rgba(255, 255, 255, 0.8);
   border-radius: 14px;
@@ -1101,12 +1170,14 @@
   box-shadow: 0px 2px 4px -2px rgba(0, 0, 0, 0.1),
     0px 4px 6px -1px rgba(0, 0, 0, 0.1);
 }
+
 .heading-22 {
   align-self: stretch;
   flex-shrink: 0;
   height: 27.99px;
   position: relative;
 }
+
 .icon10 {
   width: 24px;
   height: 24px;
@@ -1115,6 +1186,7 @@
   top: 1.99px;
   overflow: visible;
 }
+
 .actividad-reciente {
   color: #1e2939;
   text-align: left;
@@ -1126,6 +1198,7 @@
   left: 31.99px;
   top: -2px;
 }
+
 .container30 {
   display: flex;
   flex-direction: column;
@@ -1137,6 +1210,7 @@
   height: 319.91px;
   position: relative;
 }
+
 .container31 {
   background: #f9fafb;
   border-radius: 10px;
@@ -1151,6 +1225,7 @@
   height: 95.98px;
   position: relative;
 }
+
 .container32 {
   border-radius: 10px;
   display: flex;
@@ -1164,6 +1239,7 @@
   position: relative;
   overflow: hidden;
 }
+
 .image-with-fallback {
   align-self: stretch;
   flex-shrink: 0;
@@ -1172,6 +1248,7 @@
   overflow: hidden;
   object-fit: cover;
 }
+
 .container33 {
   display: flex;
   flex-direction: column;
@@ -1183,12 +1260,14 @@
   height: 46.98px;
   position: relative;
 }
+
 .heading-3 {
   align-self: stretch;
   flex-shrink: 0;
   height: 26.99px;
   position: relative;
 }
+
 .maldivas {
   color: #1e2939;
   text-align: left;
@@ -1200,6 +1279,7 @@
   left: 0px;
   top: -0.33px;
 }
+
 .paragraph {
   display: flex;
   flex-direction: row;
@@ -1211,6 +1291,7 @@
   height: 19.99px;
   position: relative;
 }
+
 .guardado-en-favoritos {
   color: #4a5565;
   text-align: left;
@@ -1221,6 +1302,7 @@
   position: relative;
   flex: 1;
 }
+
 .container34 {
   display: flex;
   flex-direction: row;
@@ -1232,6 +1314,7 @@
   height: 19.99px;
   position: relative;
 }
+
 ._15-mayo-2026 {
   color: #6a7282;
   text-align: left;
@@ -1241,6 +1324,7 @@
   font-weight: 400;
   position: relative;
 }
+
 .bora-bora {
   color: #1e2939;
   text-align: left;
@@ -1252,6 +1336,7 @@
   left: 0px;
   top: -0.33px;
 }
+
 .visto-recientemente {
   color: #4a5565;
   text-align: left;
@@ -1262,6 +1347,7 @@
   position: relative;
   flex: 1;
 }
+
 ._14-mayo-2026 {
   color: #6a7282;
   text-align: left;
@@ -1271,6 +1357,7 @@
   font-weight: 400;
   position: relative;
 }
+
 .seychelles {
   color: #1e2939;
   text-align: left;
@@ -1282,6 +1369,7 @@
   left: 0px;
   top: -0.33px;
 }
+
 ._12-mayo-2026 {
   color: #6a7282;
   text-align: left;
@@ -1291,6 +1379,7 @@
   font-weight: 400;
   position: relative;
 }
+
 .container35 {
   display: flex;
   flex-direction: column;
@@ -1303,6 +1392,7 @@
   left: 751.99px;
   top: 0px;
 }
+
 .container36 {
   background: rgba(255, 255, 255, 0.8);
   border-radius: 14px;
@@ -1322,6 +1412,7 @@
   box-shadow: 0px 2px 4px -2px rgba(0, 0, 0, 0.1),
     0px 4px 6px -1px rgba(0, 0, 0, 0.1);
 }
+
 .icon11 {
   width: 24px;
   height: 24px;
@@ -1330,6 +1421,7 @@
   top: 1.99px;
   overflow: visible;
 }
+
 .configuraci-n {
   color: #1e2939;
   text-align: left;
@@ -1341,6 +1433,7 @@
   left: 31.99px;
   top: -2px;
 }
+
 .container37 {
   display: flex;
   flex-direction: column;
@@ -1352,6 +1445,7 @@
   height: 227.9px;
   position: relative;
 }
+
 .button9 {
   background: #f9fafb;
   border-radius: 10px;
@@ -1366,6 +1460,7 @@
   height: 47.98px;
   position: relative;
 }
+
 .icon12 {
   flex-shrink: 0;
   width: 20px;
@@ -1373,12 +1468,14 @@
   position: relative;
   overflow: visible;
 }
+
 .text3 {
   flex-shrink: 0;
   width: 154.17px;
   height: 24px;
   position: relative;
 }
+
 .informaci-n-personal {
   color: #364153;
   text-align: left;
@@ -1390,6 +1487,7 @@
   left: 0px;
   top: -2.17px;
 }
+
 .icon13 {
   flex-shrink: 0;
   width: 20px;
@@ -1397,12 +1495,14 @@
   position: relative;
   overflow: visible;
 }
+
 .text4 {
   flex-shrink: 0;
   width: 103.36px;
   height: 24px;
   position: relative;
 }
+
 .notificaciones {
   color: #364153;
   text-align: left;
@@ -1414,6 +1514,7 @@
   left: 0px;
   top: -2.17px;
 }
+
 .icon14 {
   flex-shrink: 0;
   width: 20px;
@@ -1421,12 +1522,14 @@
   position: relative;
   overflow: visible;
 }
+
 .text5 {
   flex-shrink: 0;
   width: 165.85px;
   height: 24px;
   position: relative;
 }
+
 .seguridad-y-privacidad {
   color: #364153;
   text-align: left;
@@ -1438,6 +1541,7 @@
   left: 0px;
   top: -2.17px;
 }
+
 .icon15 {
   flex-shrink: 0;
   width: 20px;
@@ -1445,12 +1549,14 @@
   position: relative;
   overflow: visible;
 }
+
 .text6 {
   flex-shrink: 0;
   width: 128.01px;
   height: 24px;
   position: relative;
 }
+
 .m-todos-de-pago {
   color: #364153;
   text-align: left;
@@ -1462,6 +1568,7 @@
   left: 0px;
   top: -2.17px;
 }
+
 .footer {
   background: #101828;
   padding: 32px 0px 32px 0px;
@@ -1472,6 +1579,7 @@
   left: 0px;
   top: 1774px;
 }
+
 .container38 {
   padding: 0px 24px 0px 24px;
   display: flex;
@@ -1485,12 +1593,14 @@
   left: 0px;
   top: 32px;
 }
+
 .paragraph2 {
   align-self: stretch;
   flex-shrink: 0;
   height: 24px;
   position: relative;
 }
+
 ._2026-ruta-viajera-todos-los-derechos-reservados {
   color: #99a1af;
   text-align: center;
@@ -1501,4 +1611,22 @@
   position: absolute;
   left: 397.22px;
   top: -2.17px;
+}
+
+/* Interacciones de Navegacion y Botones */
+[class^="link"],
+[class^="button"] {
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+[class^="link"]:hover,
+[class^="button"]:hover {
+  transform: translateY(-2px);
+  filter: brightness(1.05);
+}
+
+[class^="link"]:active,
+[class^="button"]:active {
+  transform: translateY(0);
 }
